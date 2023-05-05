@@ -1,0 +1,168 @@
+---
+title: "Lab 1 - Categorical"
+author: "PUT YOUR NAME HERE"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, error=TRUE)
+library(epiDisplay)
+```
+
+## Introduction
+
+This a report for the first R Lab. Categorical analysis will conducted on three datasets, two from the Gabrosek and Reischman (G&R) text. This report will contain R code, output, and narrative text, all *knitted* into one document.
+
+**First Task:** change Author to your name in the initial document settings (top)
+
+------------------------------------------------------------------------
+
+## Part A. STA 215 Student Survey Data
+
+This data set includes information on 536 of Dr. G's STA 215 students. See the bottom of page 88 in G&R for some details.
+
+#### Notes about this code
+
+-   The R code in the "code chunk" below will be executed, but because of the include=FALSE option nothing will be included in the report.
+-   The first video that accompanies this lab walks you through the development of the code in this section. If you haven't already watched that video, do so now before continuing.
+
+```{r read-data, include=FALSE}
+## Read data from a CSV file into a datafame. 
+sta215 <- read.csv("STA215Students.csv")
+
+## Define factor columns
+class_levels <- c("Freshman", "Sophomore", "Junior", "Senior")
+sta215$Class <- factor(sta215$Class, class_levels)
+live_levels <- c("family home", "campus housing", "apartment")
+sta215$Live <- factor(sta215$Live, live_levels)
+```
+
+### One-way Frequencies for Class and Live
+
+```{r sta215-oneway}
+## One-way analysis using the epiDisplay function tab1()
+
+```
+
+### Two-way Frequencies for Live by Class
+
+```{r classxlive}
+## Two-way analysis the epiDisplay function tabpct()
+
+```
+
+------------------------------------------------------------------------
+
+## Part B. Gardasil Vaccine -- See G&R Problem 2.52 (p91)
+
+The code for reading the data and coding factors has been provided in this first code chunk. Once again, this chunk will not appear in the report because of the include=FALSE option.
+
+```{r read-gv, include=FALSE}
+## Read the data from a CSV file into the dataframe named gv
+gv <- read.csv("GardasilVaccine.csv")
+
+## Define three factor variables for categorical analysis
+gv$Race <- factor(gv$Race, 
+                       levels=c(0, 1, 2, 3),
+                       labels=c( 'White', 'Black', 'Hispanic', 'other/unknown'))
+gv$Completed <- factor(gv$Completed, 
+                       levels=c(0, 1),
+                       labels=c( 'No', 'Yes'))
+gv$InsuranceType <- factor(gv$InsuranceType, 
+                       levels=c(0, 1, 2, 3),
+                       labels=c('med asst', 'private', 'hospital', 'military'))
+```
+
+Note: you have a couple strategies for attempting the commands for the two code chunks below. You can either attempt each command here in Rmarkdown, or open the provided R script (Gardasil.R), figure out the right command there, and then copy that and paste it below once you do. Look back at the two-way analysis in Part A and adapt it to run on the appropriate variables.
+
+### Race as explanatory variable
+
+Enter a command to create the two-way table. Then below the code chunk type answers to questions b-d (pp. 89-90), using the output to answer them.
+
+```{r gv-race}
+## Two-way analysis with Race as explanatory variable
+
+```
+
+b.  
+
+c.  
+
+d.  
+
+### Insurance as explanatory variable
+
+Enter code to create a two-way analysis within InsuranceType as the explanatory variable. Note that "medical assistance" refers to government programs such as medicare and medicaid. Then type answers to these questions below the code chunk. (These replace e-g from the book.)
+
+f.  Looking at the mosaic plot, which type of insurance was most common in this study?
+g.  Does it appear that there is an association between InsuranceType and whether a woman completed the three-shot regimen? Explain your answer in a sentence or two.
+
+```{r gv-insur}
+## InsuranceType as explanatory variable
+
+```
+
+f.  
+
+g.  
+
+------------------------------------------------------------------------
+
+## Part C. Fatal Crashes (FARS) in Michigan
+
+In this last section, you'll analyze data from the FARS system. The data file read below has observations for every fatal crash that occurred in Michigan in 2014.
+
+```{r read-fars, include=FALSE}
+## Read the data from a CSV file into the dataframe MIfars
+MIfars <- read.csv("FARS_2014_MICH.csv")
+```
+
+### ROUTE (type of roadway)
+
+The commands have been provided. This is an ordinal variable so it was re-defined as a factor. Notice that an option was added to make the bar chart horizontal. This was done because the value labels are longer and don't all fit in the vertical orientation. Below the code chunk, type your answers to these questions.
+
+a.  Which type of roadways had the least number of fatal accidents?
+b.  What's your reaction to this bar chart? (Write a sentence or two.)
+
+```{r fars-route}
+MIfars$ROUTE <- factor(MIfars$ROUTE, c("Local Street", "County Road", 
+                         "State Highway", "U.S. Highway", "Interstate"))
+tab1(MIfars$ROUTE, bar.values="percent", horiz=TRUE, missing = FALSE)
+```
+
+a.
+
+b.
+
+### Speeding Related and Sex of Driver
+
+Perform a two-way categorical analysis with the sex of driver 1 as the explanatory variable and whether the crash was speeding related as the response variable. Then below the code chunk, type your answers to these questions.
+
+a.  What does the relative width of the columns in the mosaic plot suggest about the sex of drivers in fatal crashes in Michigan?
+b.  What percent of fatal crashes with female drivers were listed as speeding-related? (Look at the row percentages table.)
+c.  What percent of fatal crashes with male drivers were listed as speeding-related?
+d.  What's your conclusion about the association between these two variables? Write a complete sentence or two.
+
+```{r sex-speed}
+## Paste a command here to produce a two-way analysis using sex_dr1 (explanatory) and SPEEDREL
+
+```
+
+a.  
+
+b.  
+
+c.  
+
+d.  
+
+### Involved Drunk Drivers and Sex of Driver
+
+Perform another two-way categorical analysis, this time with the response variable being whether the crash involved drunk drivers. Below the code chunk write a sentence or two stating conclusion about the association between these two variables.
+
+```{r sex-drunk}
+## Paste a command here to produce a two-way analysis using sex_dr1 (explanatory) and drunk_dr
+
+```

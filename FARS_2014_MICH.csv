@@ -1,0 +1,832 @@
+VE_FORMS,PEDS,MONTH,DAY_WEEK,ROUTE,HARM_EV,MAN_COLL,drunk_dr,SPEEDREL,VSPD_LIM,age_dr1,sex_dr1
+2,0,January,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,Yes,55,27,Male
+2,0,January,Monday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,68,Female
+1,1,January,Saturday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,16,Male
+2,0,January,Thursday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,20,Male
+2,0,January,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,25,Male
+2,0,January,Tuesday,Interstate,Motor Vehicle In-Transport,Angle,No,No/unknown,70,73,Male
+1,1,January,Monday,State Highway,Pedalcyclist,Not Col. Moving,No,No/unknown,35,47,Male
+1,0,January,Thursday,State Highway,Rollover/Overturn,Not Col. Moving,No,Yes,70,53,Female
+1,1,January,Saturday,Local Street,Pedestrian,Not Col. Moving,Yes,No/unknown,40,58,Female
+1,0,January,Saturday,County Road,Snow Bank,Not Col. Moving,Yes,Yes,55,61,Male
+1,0,January,Wednesday,U.S. Highway,Working Motor Vehicle,Not Col. Moving,No,Yes,55,49,Female
+1,1,January,Friday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,,Unknown
+1,0,January,Sunday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,45,84,Female
+1,1,January,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,67,Male
+2,0,January,Sunday,Local Street,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,25,54,Male
+1,1,January,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,63,Unknown
+2,0,January,Sunday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,35,20,Female
+1,0,January,Saturday,Interstate,Utility Pole/Light Support,Not Col. Moving,No,Yes,35,43,Female
+2,0,January,Monday,U.S. Highway,Rollover/Overturn,Not Col. Moving,No,Yes,70,65,Male
+1,0,January,Saturday,County Road,Other Object (not fixed),Not Col. Moving,Yes,Yes,55,45,Male
+2,0,January,Wednesday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,55,38,Male
+2,0,January,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,23,Female
+1,1,January,Friday,County Road,Pedestrian,Not Col. Moving,Yes,No/unknown,45,48,Male
+2,0,January,Tuesday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,55,24,Male
+2,0,January,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,34,Male
+2,0,January,Monday,Interstate,Motor Vehicle In-Transport,Angle,No,Yes,70,39,Male
+2,0,January,Friday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,55,21,Male
+2,0,January,Saturday,County Road,Motor Vehicle In-Transport,Angle,Yes,Yes,,53,Female
+1,0,January,Sunday,Interstate,Guardrail End,Not Col. Moving,No,No/unknown,70,25,Female
+2,0,January,Sunday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,51,Male
+1,1,January,Tuesday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,35,59,Male
+2,0,January,Thursday,Local Street,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,35,31,Female
+2,0,January,Thursday,State Highway,Motor Vehicle In-Transport,Angle,Yes,Yes,55,52,Male
+1,0,January,Monday,Interstate,Impact Attenuator/Crash Cushion,Not Col. Moving,Yes,Yes,55,52,Female
+1,1,January,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,40,,Unknown
+1,1,January,Friday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,,Unknown
+1,1,January,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,47,Male
+2,0,February,Sunday,County Road,Snow Bank,Not Col. Moving,No,No/unknown,55,16,Male
+2,0,January,Friday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,55,30,Male
+2,0,February,Monday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,69,Female
+2,0,February,Wednesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,29,Male
+2,0,February,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,84,Female
+1,0,February,Sunday,U.S. Highway,Rollover/Overturn,Not Col. Moving,No,Yes,70,53,Male
+2,0,February,Friday,Interstate,Working Motor Vehicle,Not Col. Moving,No,Yes,70,60,Male
+2,0,February,Friday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,43,Female
+2,0,February,Wednesday,County Road,Snow Bank,Not Col. Moving,No,No/unknown,55,28,Female
+2,0,February,Saturday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,70,37,Male
+2,0,February,Sunday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,70,18,Male
+3,0,February,Monday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,45,86,Male
+1,0,February,Saturday,Local Street,Other Object (not fixed),Not Col. Moving,No,Yes,35,65,Male
+2,2,February,Saturday,State Highway,Pedestrian,Not Col. Moving,Yes,No/unknown,55,48,Male
+2,0,February,Wednesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,92,Male
+1,1,February,Saturday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,27,Male
+2,0,February,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,42,Female
+1,0,February,Monday,Interstate,Concrete Traffic Barrier,Not Col. Moving,No,Yes,55,40,Male
+2,0,February,Friday,State Highway,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,41,Male
+1,0,February,Saturday,State Highway,Other Object (not fixed),Not Col. Moving,Yes,No/unknown,55,42,Male
+2,0,February,Saturday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,Yes,No/unknown,55,18,Female
+1,1,February,Thursday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,40,,Unknown
+1,2,February,Saturday,State Highway,Pedestrian,Not Col. Moving,Yes,No/unknown,50,57,Female
+3,0,February,Saturday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,23,Male
+1,0,February,Friday,State Highway,Utility Pole/Light Support,Not Col. Moving,Yes,No/unknown,55,24,Male
+1,1,February,Thursday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,24,Male
+2,0,February,Saturday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,Yes,55,20,Female
+3,0,February,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,76,Male
+2,0,February,Friday,Local Street,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,40,27,Male
+1,0,February,Saturday,County Road,Utility Pole/Light Support,Not Col. Moving,Yes,No/unknown,55,25,Male
+2,0,February,Friday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,55,32,Male
+2,0,February,Saturday,State Highway,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,39,Male
+1,0,February,Thursday,U.S. Highway,Curb,Not Col. Moving,No,Yes,50,57,Male
+5,0,February,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,50,51,Female
+1,1,February,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,,Unknown
+1,1,February,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,36,Male
+1,1,February,Thursday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,30,22,Female
+2,0,February,Wednesday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,35,82,Male
+2,0,February,Friday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,88,Male
+1,1,February,Wednesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,70,56,Male
+2,0,February,Friday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,70,72,Male
+2,0,February,Friday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Rear,Yes,No/unknown,70,49,Male
+2,0,February,Sunday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,Yes,55,30,Male
+1,1,February,Thursday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,22,Female
+1,1,February,Thursday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,,Unknown
+2,0,February,Monday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,61,Female
+2,0,February,Sunday,Local Street,Motor Vehicle In-Transport,Angle,No,Yes,40,23,Male
+1,0,February,Tuesday,Local Street,Utility Pole/Light Support,Not Col. Moving,No,No/unknown,35,82,Female
+4,0,February,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,64,Male
+2,0,February,Thursday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,41,Male
+2,0,February,Friday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,55,54,Female
+2,1,February,Friday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,45,Male
+2,0,February,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,26,Female
+2,1,February,Thursday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,,Unknown
+1,0,February,Saturday,Interstate,Guardrail Face,Not Col. Moving,Yes,No/unknown,70,32,Male
+2,1,February,Monday,County Road,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,35,80,Male
+1,1,March,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,21,Male
+2,0,March,Monday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,Yes,70,30,Male
+2,0,March,Monday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,48,Male
+1,0,March,Saturday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,23,Male
+1,0,March,Saturday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,70,50,Male
+1,1,March,Tuesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,45,21,Female
+2,0,March,Thursday,County Road,Fell/Jumped from Vehicle,Not Col. Moving,Yes,No/unknown,25,24,Male
+2,0,March,Sunday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,72,Male
+2,0,March,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,Yes,40,40,Female
+2,0,March,Sunday,Local Street,Motor Vehicle In-Transport,Front-to-Rear,Yes,Yes,35,30,Male
+2,0,March,Sunday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,18,Male
+2,0,March,Saturday,State Highway,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,55,24,Male
+1,0,March,Monday,U.S. Highway,Bridge Rail (Includes parapet),Not Col. Moving,No,No/unknown,70,26,Male
+2,0,March,Monday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,20,Male
+2,0,March,Wednesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,17,Female
+1,2,March,Sunday,Local Street,Curb,Not Col. Moving,Yes,No/unknown,25,21,Male
+1,0,March,Saturday,County Road,Parked Motor Vehicle,Not Col. Moving,No,No/unknown,55,45,Male
+1,0,March,Saturday,County Road,Mail Box,Not Col. Moving,Yes,No/unknown,55,20,Male
+1,0,March,Thursday,Interstate,Rollover/Overturn,Not Col. Moving,No,No/unknown,60,53,Male
+1,0,March,Sunday,Interstate,Rollover/Overturn,Not Col. Moving,Yes,No/unknown,70,28,Female
+2,0,March,Saturday,Interstate,Motor Vehicle In-Transport,Sideswipe,Yes,Yes,70,42,Female
+2,0,March,Saturday,County Road,Motor Vehicle In-Transport,Front-to-Rear,Yes,Yes,55,30,Female
+2,0,March,Wednesday,U.S. Highway,Ditch,Not Col. Moving,No,Yes,70,66,Male
+2,0,March,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,20,Male
+2,0,March,Thursday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,40,Male
+1,1,March,Wednesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,40,Male
+1,0,March,Tuesday,County Road,Rollover/Overturn,Not Col. Moving,No,No/unknown,55,78,Male
+1,1,March,Thursday,U.S. Highway,Railway Vehicle,Not Col. Moving,No,No/unknown,55,77,Male
+2,0,March,Sunday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,Yes,55,34,Female
+2,0,February,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,20,Male
+1,0,March,Saturday,County Road,Other Object (not fixed),Not Col. Moving,No,Yes,55,24,Male
+1,1,March,Sunday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,40,33,Female
+1,0,March,Tuesday,Local Street,Curb,Not Col. Moving,No,No/unknown,40,45,Female
+2,0,March,Friday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,,30,Male
+1,0,March,Tuesday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,70,36,Male
+2,1,March,Saturday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,40,58,Male
+1,0,April,Wednesday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,70,42,Male
+1,1,March,Sunday,State Highway,Pedestrian,Not Col. Moving,Yes,No/unknown,50,31,Female
+1,0,April,Wednesday,County Road,Ditch,Not Col. Moving,No,No/unknown,55,26,Male
+1,0,April,Friday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,26,Male
+2,0,April,Sunday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,70,33,Female
+1,0,April,Wednesday,State Highway,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,73,Female
+2,0,April,Tuesday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,89,Female
+2,0,April,Friday,County Road,Motor Vehicle In-Transport,Angle,No,Yes,40,20,Male
+2,0,April,Monday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,Yes,Yes,55,51,Male
+1,1,April,Monday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,15,34,Female
+2,0,March,Thursday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,,47,Male
+1,2,March,Sunday,State Highway,Pedestrian,Not Col. Moving,Yes,No/unknown,50,22,Male
+2,0,April,Tuesday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,Yes,70,29,Male
+1,1,April,Wednesday,U.S. Highway,Pedalcyclist,Not Col. Moving,No,No/unknown,40,65,Female
+1,1,April,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,50,29,Male
+1,0,February,Thursday,State Highway,Other Object (not fixed),Not Col. Moving,No,No/unknown,50,67,Male
+2,0,March,Tuesday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,45,20,Female
+2,0,April,Thursday,Local Street,Rollover/Overturn,Not Col. Moving,No,No/unknown,30,24,Male
+1,0,April,Tuesday,County Road,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,55,20,Male
+2,0,February,Thursday,Local Street,Motor Vehicle In-Transport,Angle,No,Yes,,28,Male
+1,0,April,Tuesday,Interstate,Concrete Traffic Barrier,Not Col. Moving,No,No/unknown,55,66,Male
+2,0,April,Thursday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,24,Female
+1,1,March,Saturday,County Road,Pedestrian,Not Col. Moving,Yes,No/unknown,45,22,Male
+1,0,April,Saturday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,23,Male
+3,0,April,Friday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,59,Male
+2,0,April,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,51,Female
+2,0,April,Sunday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,45,43,Male
+1,0,April,Thursday,Local Street,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,45,40,Male
+2,3,April,Monday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,40,59,Male
+1,1,April,Wednesday,U.S. Highway,Parked Motor Vehicle,Not Col. Moving,No,No/unknown,70,56,Male
+2,0,April,Friday,State Highway,Motor Vehicle In-Transport,Sideswipe,No,Yes,70,25,Female
+2,0,April,Sunday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,21,Female
+1,0,April,Monday,Local Street,Building,Not Col. Moving,No,Yes,35,37,Female
+2,0,April,Saturday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,68,Male
+1,0,April,Wednesday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,26,Male
+2,0,April,Sunday,Local Street,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,30,25,Male
+1,0,April,Friday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,,31,Male
+1,0,April,Saturday,County Road,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,45,28,Male
+1,1,April,Sunday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,,Unknown
+2,0,April,Sunday,Local Street,Curb,Not Col. Moving,No,Yes,,17,Male
+1,0,April,Monday,County Road,Ditch,Not Col. Moving,No,No/unknown,55,37,Male
+1,0,April,Sunday,County Road,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,55,22,Male
+1,0,April,Saturday,County Road,Rollover/Overturn,Not Col. Moving,No,No/unknown,55,61,Male
+2,0,April,Friday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,18,Male
+2,1,April,Saturday,Interstate,Pedestrian,Not Col. Moving,No,No/unknown,70,41,Female
+2,0,April,Sunday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,46,Female
+1,0,April,Saturday,State Highway,Curb,Not Col. Moving,No,Yes,30,33,Male
+2,0,April,Thursday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,22,Female
+1,0,April,Saturday,County Road,Ditch,Not Col. Moving,Yes,Yes,55,47,Male
+2,0,April,Friday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,24,Female
+1,1,April,Sunday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,0,34,Female
+1,1,April,Wednesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,27,Male
+1,1,April,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,53,Male
+1,0,April,Wednesday,Interstate,Concrete Traffic Barrier,Not Col. Moving,Yes,Yes,55,21,Female
+1,0,April,Wednesday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,21,Male
+2,0,April,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,20,Male
+2,0,April,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,50,80,Female
+1,0,April,Monday,Local Street,Tree (Standing Only),Not Col. Moving,No,Yes,15,50,Male
+2,0,April,Thursday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,45,61,Male
+2,0,April,Saturday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,45,Female
+2,0,April,Tuesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,83,Female
+4,0,April,Wednesday,Interstate,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,70,43,Male
+1,1,April,Monday,U.S. Highway,Pedestrian,Not Col. Moving,No,No/unknown,45,60,Male
+2,0,April,Monday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,40,81,Male
+3,0,April,Thursday,Local Street,Rollover/Overturn,Not Col. Moving,No,No/unknown,45,20,Male
+1,1,March,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,,Unknown
+1,0,March,Monday,Local Street,"Other Post, Other Pole or Other Supports",Not Col. Moving,No,No/unknown,30,16,Male
+1,0,March,Sunday,State Highway,Curb,Not Col. Moving,Yes,Yes,40,39,Male
+2,0,March,Friday,Local Street,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,35,66,Male
+1,2,March,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,34,Male
+3,0,April,Wednesday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,Yes,Yes,55,42,Female
+1,0,April,Saturday,Local Street,Fell/Jumped from Vehicle,Not Col. Moving,No,No/unknown,25,33,Male
+1,0,May,Sunday,State Highway,Embankment,Not Col. Moving,Yes,Yes,55,22,Male
+2,0,May,Sunday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,72,Female
+2,0,May,Tuesday,Interstate,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",Other/Unknown,No,No/unknown,70,57,Male
+2,0,May,Friday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,33,Male
+3,0,April,Tuesday,Local Street,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,21,Male
+1,0,May,Sunday,County Road,Culvert,Not Col. Moving,No,Yes,55,62,Male
+2,0,May,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,27,Male
+2,0,May,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,53,Male
+2,0,May,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,18,Male
+2,0,May,Sunday,County Road,"Pavement Surface Irregularity (Ruts, Potholes, Grates, etc.)",Not Col. Moving,No,No/unknown,55,42,Male
+2,0,May,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,45,19,Male
+2,0,May,Sunday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,36,Male
+1,0,May,Wednesday,State Highway,Guardrail Face,Not Col. Moving,No,Yes,55,41,Male
+1,0,May,Tuesday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,19,Male
+1,0,May,Sunday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,55,60,Female
+1,0,May,Tuesday,Local Street,Curb,Not Col. Moving,No,No/unknown,45,51,Male
+2,0,May,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,45,76,Female
+2,0,May,Saturday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,18,Male
+1,0,May,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,39,Male
+2,0,May,Friday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,45,65,Female
+1,0,May,Wednesday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,60,Male
+2,0,May,Sunday,County Road,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,55,91,Male
+1,0,May,Sunday,Local Street,Curb,Not Col. Moving,No,No/unknown,25,37,Female
+2,0,May,Friday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,55,29,Female
+2,0,May,Saturday,State Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,71,Female
+2,0,May,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,55,Male
+2,0,May,Monday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,24,Male
+1,1,May,Monday,County Road,Pedalcyclist,Not Col. Moving,No,No/unknown,45,32,Male
+2,0,May,Monday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,37,Female
+1,0,May,Monday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,49,Female
+1,0,May,Friday,Interstate,Rollover/Overturn,Not Col. Moving,No,No/unknown,70,43,Male
+2,0,May,Saturday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,70,Male
+2,0,May,Saturday,County Road,Live Animal,Not Col. Moving,No,No/unknown,55,52,Male
+1,0,May,Saturday,Local Street,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,22,Male
+2,0,May,Wednesday,Local Street,Motor Vehicle In-Transport,Angle,No,Yes,,20,Male
+2,0,May,Saturday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,19,Male
+1,1,May,Sunday,Interstate,Pedestrian,Not Col. Moving,Yes,No/unknown,70,30,Male
+1,0,May,Tuesday,Interstate,Tree (Standing Only),Not Col. Moving,No,No/unknown,70,49,Male
+1,0,May,Monday,County Road,Ditch,Not Col. Moving,No,No/unknown,55,53,Male
+1,0,May,Sunday,County Road,Mail Box,Not Col. Moving,No,No/unknown,55,71,Male
+1,1,May,Thursday,State Highway,Pedalcyclist,Not Col. Moving,Yes,No/unknown,50,30,Male
+1,0,May,Wednesday,County Road,Mail Box,Not Col. Moving,Yes,No/unknown,55,53,Female
+1,1,May,Monday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,70,,Unknown
+1,0,May,Wednesday,County Road,Embankment,Not Col. Moving,No,No/unknown,55,28,Male
+1,1,May,Tuesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,30,,Unknown
+1,1,May,Friday,County Road,Pedalcyclist,Not Col. Moving,No,No/unknown,55,79,Female
+1,1,May,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,20,Male
+2,0,May,Wednesday,County Road,Motor Vehicle In-Transport,Sideswipe,Yes,No/unknown,55,21,Male
+1,1,May,Tuesday,State Highway,Non-Motorist on Personal Conveyance,Not Col. Moving,No,No/unknown,,,Unknown
+2,0,May,Saturday,Local Street,Motor Vehicle In-Transport,Angle,Yes,No/unknown,35,36,Male
+1,1,May,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,23,Male
+1,1,May,Tuesday,Local Street,Pedestrian,Not Col. Moving,No,Yes,25,28,Male
+1,0,May,Wednesday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,55,22,Male
+2,0,May,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,81,Female
+1,0,May,Saturday,County Road,Fence,Not Col. Moving,Yes,No/unknown,55,68,Male
+1,0,May,Monday,Local Street,Rollover/Overturn,Not Col. Moving,Yes,Yes,25,41,Male
+1,1,May,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,,Unknown
+1,0,May,Friday,State Highway,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,36,Male
+1,0,April,Monday,U.S. Highway,Traffic Sign Support,Not Col. Moving,No,No/unknown,70,55,Male
+1,1,May,Monday,Local Street,Pedalcyclist,Not Col. Moving,No,No/unknown,45,,Unknown
+2,0,May,Monday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,33,Male
+1,0,May,Saturday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,21,Male
+1,0,April,Wednesday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,45,56,Female
+1,0,May,Monday,County Road,Other Fixed Object,Not Col. Moving,Yes,No/unknown,55,56,Male
+1,1,May,Sunday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,45,37,Female
+2,0,May,Saturday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,45,21,Male
+2,0,June,Sunday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,64,Female
+2,0,May,Friday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,79,Male
+1,1,June,Tuesday,County Road,Pedalcyclist,Not Col. Moving,Yes,No/unknown,45,37,Male
+1,0,June,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,83,Male
+1,0,June,Sunday,County Road,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,55,40,Male
+2,0,June,Tuesday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,40,44,Female
+2,0,May,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,,33,Male
+1,1,June,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,50,18,Male
+1,0,June,Sunday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,50,Male
+1,0,June,Sunday,County Road,Culvert,Not Col. Moving,Yes,Yes,55,17,Male
+2,0,June,Tuesday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,,21,Male
+2,0,June,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,33,Male
+2,0,June,Tuesday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,38,Male
+2,0,June,Wednesday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,17,Male
+1,0,June,Sunday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,55,57,Female
+2,0,June,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,18,Male
+1,0,June,Monday,Local Street,Other Fixed Object,Not Col. Moving,No,Yes,25,42,Female
+1,0,June,Saturday,Local Street,Curb,Not Col. Moving,No,Yes,25,79,Female
+2,0,June,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,45,70,Male
+2,0,June,Sunday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,45,30,Male
+2,0,June,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,40,Male
+1,0,June,Wednesday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,25,22,Male
+3,0,June,Monday,County Road,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,,21,Male
+1,0,June,Friday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,53,Male
+1,0,June,Tuesday,U.S. Highway,Fell/Jumped from Vehicle,Not Col. Moving,No,No/unknown,70,63,Male
+1,0,June,Friday,County Road,Embankment,Not Col. Moving,Yes,No/unknown,55,25,Male
+2,0,June,Saturday,Interstate,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,70,38,Male
+1,0,June,Monday,U.S. Highway,Rollover/Overturn,Not Col. Moving,No,Yes,,65,Male
+1,0,June,Sunday,County Road,Guardrail Face,Not Col. Moving,Yes,No/unknown,45,25,Male
+3,0,June,Thursday,Local Street,Motor Vehicle In-Transport,Angle,No,Yes,,21,Male
+1,0,June,Tuesday,State Highway,Utility Pole/Light Support,Not Col. Moving,Yes,Yes,40,21,Male
+1,1,June,Sunday,Local Street,Pedalcyclist,Not Col. Moving,No,No/unknown,30,88,Male
+2,0,June,Monday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,49,Male
+2,0,June,Friday,County Road,Motor Vehicle In-Transport,Angle,Yes,Yes,,28,Male
+1,1,June,Saturday,Interstate,Pedestrian,Not Col. Moving,No,No/unknown,55,,Unknown
+1,0,June,Tuesday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,70,36,Male
+6,0,April,Tuesday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Rear,No,Yes,45,32,Male
+2,0,June,Tuesday,Local Street,Motor Vehicle In-Transport,Angle,Yes,Yes,30,23,Male
+2,0,June,Wednesday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,45,18,Male
+4,0,May,Thursday,Local Street,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,40,63,Female
+1,0,June,Saturday,Interstate,Bridge Pier or Support,Not Col. Moving,No,Yes,70,20,Male
+1,0,June,Sunday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,55,14,Male
+2,0,June,Sunday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,32,Male
+1,1,June,Sunday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,40,,Unknown
+2,0,June,Tuesday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,57,Male
+1,1,June,Saturday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,30,,Unknown
+2,0,June,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,78,Male
+1,0,June,Saturday,State Highway,Curb,Not Col. Moving,Yes,No/unknown,45,40,Male
+1,0,June,Saturday,State Highway,Curb,Not Col. Moving,Yes,Yes,35,37,Male
+1,0,June,Friday,Interstate,Embankment,Not Col. Moving,No,No/unknown,70,25,Male
+2,0,June,Wednesday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,54,Male
+2,0,June,Sunday,State Highway,Motor Vehicle In-Transport,Other/Unknown,No,No/unknown,,15,Male
+1,0,April,Sunday,County Road,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,55,18,Male
+2,0,June,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,,28,Male
+3,0,June,Friday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,60,Male
+1,1,May,Saturday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,46,Male
+2,0,June,Saturday,Local Street,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,45,55,Male
+2,0,June,Thursday,Local Street,Motor Vehicle In-Transport,Angle,Yes,No/unknown,45,26,Female
+1,1,June,Saturday,U.S. Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,60,Male
+2,0,June,Monday,County Road,Motor Vehicle In-Transport,Front-to-Rear,Yes,No/unknown,55,53,Male
+2,0,June,Sunday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,50,21,Male
+1,0,June,Saturday,Local Street,Fell/Jumped from Vehicle,Not Col. Moving,Yes,No/unknown,25,23,Male
+2,0,June,Wednesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,24,Male
+2,0,June,Saturday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,33,Male
+1,0,June,Monday,U.S. Highway,Ditch,Not Col. Moving,No,No/unknown,50,70,Male
+1,1,June,Thursday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,25,58,Male
+1,0,June,Saturday,County Road,Ditch,Not Col. Moving,Yes,Yes,55,18,Male
+1,0,June,Tuesday,Local Street,Parked Motor Vehicle,Not Col. Moving,Yes,Yes,25,35,Female
+2,0,June,Wednesday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,70,42,Male
+2,0,June,Wednesday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,59,Male
+2,0,April,Friday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,Yes,No/unknown,55,37,Male
+1,0,May,Wednesday,Local Street,Curb,Not Col. Moving,Yes,Yes,25,27,Male
+2,0,June,Tuesday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,50,56,Male
+2,0,June,Thursday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,64,Male
+2,0,June,Thursday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,50,57,Female
+1,0,July,Tuesday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,54,Male
+1,1,July,Wednesday,Local Street,Non-Motorist on Personal Conveyance,Not Col. Moving,No,No/unknown,45,43,Male
+2,0,July,Tuesday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,50,76,Female
+2,0,July,Saturday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,40,31,Male
+2,0,June,Friday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,31,Male
+1,1,June,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,49,Female
+2,0,July,Sunday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,60,50,Male
+2,0,July,Monday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,83,Male
+1,0,June,Monday,Interstate,Guardrail Face,Not Col. Moving,No,Yes,70,64,Male
+2,0,July,Tuesday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,40,90,Male
+1,0,June,Tuesday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,45,44,Female
+1,0,June,Thursday,County Road,Mail Box,Not Col. Moving,Yes,No/unknown,40,23,Male
+1,1,June,Saturday,Interstate,Pedestrian,Not Col. Moving,No,No/unknown,70,67,Male
+1,1,June,Monday,Local Street,Parked Motor Vehicle,Not Col. Moving,No,No/unknown,35,58,Male
+2,0,June,Sunday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,66,Male
+2,0,July,Thursday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,26,Male
+1,0,July,Sunday,County Road,Ditch,Not Col. Moving,Yes,No/unknown,55,58,Male
+1,1,July,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,22,Female
+2,0,July,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,90,Male
+1,0,June,Wednesday,County Road,Live Animal,Not Col. Moving,No,No/unknown,55,51,Male
+2,0,June,Friday,Interstate,Impact Attenuator/Crash Cushion,Not Col. Moving,No,No/unknown,70,34,Male
+2,0,July,Friday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,29,Male
+1,0,June,Sunday,Interstate,Tree (Standing Only),Not Col. Moving,No,No/unknown,70,22,Male
+1,0,July,Saturday,County Road,Mail Box,Not Col. Moving,Yes,Yes,55,48,Male
+2,0,July,Sunday,Local Street,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,45,26,Male
+1,0,June,Tuesday,Local Street,Building,Not Col. Moving,No,No/unknown,30,49,Male
+1,0,July,Tuesday,County Road,Fell/Jumped from Vehicle,Not Col. Moving,Yes,No/unknown,45,67,Male
+1,1,July,Thursday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,22,Male
+4,0,July,Saturday,Local Street,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,25,Male
+2,0,July,Friday,County Road,Motor Vehicle In-Transport,Angle,Yes,Yes,55,82,Male
+2,0,July,Thursday,U.S. Highway,Motor Vehicle In-Transport,Angle,Yes,Yes,70,19,Male
+1,0,July,Monday,Interstate,Rollover/Overturn,Not Col. Moving,No,No/unknown,70,49,Male
+2,0,July,Tuesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,35,Male
+2,1,July,Saturday,Interstate,Pedestrian,Not Col. Moving,No,No/unknown,70,50,Male
+1,0,July,Monday,County Road,Live Animal,Not Col. Moving,No,No/unknown,55,52,Male
+1,1,July,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,36,Female
+1,1,July,Monday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,45,18,Male
+2,0,July,Friday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,27,Male
+2,0,July,Monday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,73,Male
+2,0,July,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,15,Male
+1,0,July,Saturday,Local Street,Tree (Standing Only),Not Col. Moving,Yes,Yes,25,26,Male
+1,1,July,Wednesday,County Road,Pedalcyclist,Not Col. Moving,Yes,No/unknown,55,61,Male
+2,0,July,Thursday,Interstate,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,70,32,Female
+1,0,July,Saturday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,35,32,Male
+1,0,July,Sunday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,55,31,Female
+2,0,July,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,22,Male
+2,0,July,Tuesday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,Yes,40,19,Male
+1,1,July,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,,Unknown
+1,1,July,Tuesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,58,Female
+2,0,July,Tuesday,Local Street,Motor Vehicle In-Transport,Angle,No,Yes,30,35,Male
+1,0,July,Thursday,County Road,Culvert,Not Col. Moving,No,No/unknown,55,50,Female
+3,0,July,Friday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,39,Female
+1,1,July,Sunday,Local Street,Pedalcyclist,Not Col. Moving,No,No/unknown,35,44,Male
+1,1,July,Thursday,Local Street,Parked Motor Vehicle,Not Col. Moving,No,Yes,25,,Unknown
+2,0,July,Friday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,28,Male
+1,0,July,Thursday,State Highway,Guardrail Face,Not Col. Moving,No,No/unknown,45,62,Male
+1,0,July,Thursday,State Highway,Ditch,Not Col. Moving,No,Yes,55,71,Male
+2,0,July,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,18,Male
+1,1,January,Monday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,70,,Unknown
+1,0,July,Wednesday,County Road,Culvert,Not Col. Moving,Yes,No/unknown,55,17,Male
+2,0,July,Wednesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,Yes,55,21,Male
+4,0,July,Thursday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,28,Male
+1,0,July,Thursday,Local Street,Culvert,Not Col. Moving,No,Yes,,18,Male
+1,0,July,Friday,Local Street,Utility Pole/Light Support,Not Col. Moving,Yes,Yes,35,25,Male
+2,0,July,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,73,Male
+2,0,July,Thursday,Local Street,Rollover/Overturn,Not Col. Moving,No,Yes,40,32,Male
+2,0,July,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,55,19,Male
+2,0,July,Saturday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,36,Male
+2,0,July,Saturday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,41,Male
+2,0,July,Sunday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,Yes,,23,Male
+1,0,July,Sunday,Local Street,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,26,Male
+2,0,July,Saturday,Local Street,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,16,Female
+2,0,July,Tuesday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,48,Male
+2,0,July,Sunday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,Yes,No/unknown,70,28,Male
+1,0,July,Tuesday,U.S. Highway,Culvert,Not Col. Moving,No,Yes,55,39,Male
+2,0,July,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,19,Female
+1,0,July,Saturday,County Road,Rollover/Overturn,Not Col. Moving,Yes,No/unknown,45,21,Male
+1,1,July,Sunday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,57,Female
+2,0,July,Monday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,22,Male
+1,0,July,Tuesday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,45,18,Male
+1,0,July,Wednesday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,40,70,Female
+1,0,July,Sunday,County Road,Building,Not Col. Moving,Yes,No/unknown,45,21,Male
+2,0,July,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,Yes,45,26,Male
+1,1,July,Friday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,19,Female
+1,0,July,Friday,County Road,Other Object (not fixed),Not Col. Moving,Yes,Yes,55,29,Male
+1,1,July,Friday,U.S. Highway,Pedalcyclist,Not Col. Moving,No,No/unknown,55,72,Male
+1,1,July,Wednesday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,29,Female
+2,0,July,Sunday,Other/unknown,Motor Vehicle In-Transport,Angle,No,No/unknown,,24,Male
+1,0,July,Friday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,45,Male
+1,0,July,Wednesday,County Road,Other Traffic Barrier,Not Col. Moving,No,No/unknown,55,50,Male
+1,0,July,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,22,Male
+3,0,July,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,60,Male
+1,0,May,Saturday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,22,Female
+3,0,June,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,17,Male
+1,0,June,Sunday,Local Street,Fell/Jumped from Vehicle,Not Col. Moving,Yes,No/unknown,35,28,Male
+1,1,July,Friday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,,Unknown
+1,0,July,Friday,Local Street,Fell/Jumped from Vehicle,Not Col. Moving,No,No/unknown,25,20,Male
+2,0,August,Friday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,63,Female
+3,0,August,Sunday,State Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,23,Female
+1,0,June,Sunday,County Road,Rollover/Overturn,Not Col. Moving,Yes,No/unknown,55,48,Male
+2,0,August,Sunday,Local Street,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,35,30,Male
+1,0,August,Monday,County Road,Embankment,Not Col. Moving,Yes,Yes,35,26,Male
+1,1,June,Thursday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,69,Male
+2,0,August,Monday,Local Street,Motor Vehicle In-Transport,Angle,No,Yes,30,25,Male
+2,0,August,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,38,Male
+2,0,June,Saturday,County Road,Motor Vehicle In-Transport,Angle,Yes,Yes,,19,Male
+2,0,August,Thursday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,45,21,Male
+1,1,August,Friday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,17,Male
+2,0,July,Tuesday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,,23,Female
+1,0,August,Monday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,19,Male
+2,0,August,Tuesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,28,Male
+1,0,August,Sunday,State Highway,Rollover/Overturn,Not Col. Moving,Yes,No/unknown,55,51,Male
+1,2,August,Saturday,County Road,Parked Motor Vehicle,Not Col. Moving,No,No/unknown,55,22,Male
+2,0,July,Sunday,Local Street,Motor Vehicle In-Transport,Sideswipe,Yes,Yes,25,44,Male
+2,0,August,Monday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,31,Male
+2,0,August,Tuesday,Local Street,Rollover/Overturn,Not Col. Moving,No,No/unknown,25,24,Male
+2,0,August,Wednesday,Local Street,Motor Vehicle In-Transport,Angle,No,Yes,,61,Male
+1,1,August,Saturday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,84,Male
+1,0,August,Saturday,State Highway,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,24,Male
+1,0,August,Saturday,County Road,Rollover/Overturn,Not Col. Moving,Yes,No/unknown,55,24,Male
+2,0,August,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,45,25,Female
+2,0,August,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,80,Female
+2,0,August,Monday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,17,Male
+1,1,August,Sunday,State Highway,Non-Motorist on Personal Conveyance,Not Col. Moving,No,No/unknown,50,19,Female
+2,0,August,Wednesday,Local Street,Motor Vehicle In-Transport,Angle,Yes,No/unknown,35,62,Male
+1,1,August,Sunday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,,Unknown
+1,0,August,Thursday,Interstate,Fence,Not Col. Moving,No,Yes,70,,Male
+1,0,August,Saturday,County Road,Culvert,Not Col. Moving,No,Yes,40,27,Male
+2,0,August,Tuesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,83,Female
+1,0,August,Saturday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,30,42,Male
+2,0,August,Wednesday,Interstate,Motor Vehicle In-Transport,Front-to-Front,No,Yes,70,29,Male
+2,0,August,Thursday,Local Street,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,35,78,Female
+1,1,August,Sunday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,86,Male
+1,0,August,Sunday,State Highway,Ditch,Not Col. Moving,Yes,Yes,55,35,Male
+1,1,August,Wednesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,31,Male
+2,0,August,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,49,Female
+1,0,August,Sunday,County Road,Parked Motor Vehicle,Not Col. Moving,Yes,No/unknown,55,25,Male
+2,0,August,Thursday,Local Street,Motor Vehicle In-Transport,Front-to-Front,No,Yes,25,25,Female
+2,0,August,Wednesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,51,Male
+2,0,August,Sunday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,35,80,Female
+1,0,August,Friday,Interstate,Rollover/Overturn,Not Col. Moving,Yes,Yes,70,24,Male
+1,0,August,Saturday,County Road,Live Animal,Not Col. Moving,Yes,No/unknown,55,53,Male
+1,0,August,Saturday,County Road,Embankment,Not Col. Moving,No,No/unknown,55,57,Male
+2,0,August,Monday,County Road,Motor Vehicle In-Transport,Angle,No,Yes,45,24,Male
+1,1,August,Monday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,35,17,Male
+3,0,August,Sunday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,,47,Female
+2,0,August,Monday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,22,Female
+1,0,August,Friday,State Highway,Concrete Traffic Barrier,Not Col. Moving,No,Yes,55,21,Male
+1,0,August,Thursday,Local Street,Fell/Jumped from Vehicle,Not Col. Moving,Yes,No/unknown,25,56,Male
+1,1,August,Sunday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,,Unknown
+1,1,August,Tuesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,20,Female
+2,0,August,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,36,Female
+1,0,August,Monday,County Road,Traffic Sign Support,Not Col. Moving,Yes,No/unknown,55,62,Male
+2,0,August,Friday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,19,Female
+2,0,June,Friday,County Road,Motor Vehicle In-Transport,Front-to-Rear,Yes,No/unknown,55,35,Male
+2,0,August,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,Yes,,16,Male
+1,0,August,Saturday,County Road,Ditch,Not Col. Moving,Yes,No/unknown,55,23,Male
+1,0,July,Monday,County Road,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,55,69,Male
+1,1,June,Thursday,Local Street,Pedalcyclist,Not Col. Moving,No,No/unknown,45,31,Male
+1,1,August,Wednesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,50,63,Male
+2,0,August,Wednesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,82,Male
+1,1,August,Saturday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,40,61,Male
+1,0,August,Sunday,County Road,Culvert,Not Col. Moving,No,Yes,55,31,Male
+2,0,August,Thursday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,66,Male
+1,0,August,Sunday,County Road,Fell/Jumped from Vehicle,Not Col. Moving,Yes,No/unknown,25,31,Male
+1,1,August,Sunday,U.S. Highway,Pedestrian,Not Col. Moving,No,No/unknown,50,20,Female
+1,1,September,Tuesday,County Road,Pedalcyclist,Not Col. Moving,No,No/unknown,55,23,Female
+1,1,July,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,21,Female
+1,1,August,Friday,County Road,Pedalcyclist,Not Col. Moving,No,No/unknown,55,18,Female
+1,0,August,Thursday,Local Street,Utility Pole/Light Support,Not Col. Moving,No,Yes,25,18,Male
+1,0,August,Friday,County Road,Embankment,Not Col. Moving,No,No/unknown,55,74,Male
+2,0,September,Wednesday,Interstate,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,70,53,Female
+1,0,August,Tuesday,Interstate,Concrete Traffic Barrier,Not Col. Moving,No,Yes,55,20,Male
+1,0,August,Sunday,Interstate,Embankment,Not Col. Moving,Yes,Yes,70,21,Female
+2,0,September,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,18,Male
+1,0,August,Saturday,Local Street,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,25,92,Male
+2,0,August,Sunday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,60,Male
+1,1,September,Wednesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,45,75,Male
+2,0,September,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,91,Male
+1,0,August,Thursday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,17,Female
+2,0,September,Friday,Interstate,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,70,83,Male
+1,0,September,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,16,Female
+1,0,September,Saturday,Local Street,Utility Pole/Light Support,Not Col. Moving,No,No/unknown,35,24,Male
+1,0,August,Friday,County Road,Live Animal,Not Col. Moving,No,No/unknown,55,54,Male
+1,0,February,Wednesday,Local Street,Curb,Not Col. Moving,Yes,Yes,30,28,Male
+2,0,September,Sunday,County Road,Motor Vehicle In-Transport,Sideswipe,No,Yes,55,68,Male
+1,0,September,Thursday,Local Street,Culvert,Not Col. Moving,Yes,No/unknown,55,20,Female
+2,0,September,Saturday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,22,Male
+1,1,August,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,,Unknown
+2,0,September,Saturday,State Highway,Motor Vehicle In-Transport,Angle,Yes,Yes,55,24,Male
+1,0,September,Friday,Local Street,Fire Hydrant,Not Col. Moving,No,No/unknown,25,32,Male
+1,0,September,Thursday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,89,Male
+1,1,September,Friday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,19,Female
+1,0,September,Saturday,County Road,Mail Box,Not Col. Moving,Yes,No/unknown,55,48,Female
+1,1,September,Saturday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,,Unknown
+1,1,September,Friday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,40,69,Male
+1,1,July,Wednesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,,48,Male
+2,0,July,Saturday,Local Street,Motor Vehicle In-Transport,Angle,No,Yes,,,Unknown
+4,0,September,Tuesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,68,Male
+2,0,September,Monday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,29,Female
+2,0,September,Wednesday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,26,Male
+2,0,September,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,31,Male
+2,0,September,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,,25,Male
+2,0,September,Monday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,35,28,Female
+1,0,September,Thursday,Interstate,Parked Motor Vehicle,Not Col. Moving,No,No/unknown,70,27,Male
+2,0,September,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,65,Male
+3,0,September,Friday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,Yes,Yes,70,26,Male
+1,0,July,Tuesday,State Highway,Mail Box,Not Col. Moving,No,No/unknown,55,66,Female
+1,0,September,Sunday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,70,19,Male
+1,1,September,Saturday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,45,,Unknown
+1,0,September,Monday,County Road,Ditch,Not Col. Moving,Yes,No/unknown,45,46,Male
+2,0,September,Monday,Local Street,Motor Vehicle In-Transport,Angle,Yes,Yes,35,22,Male
+1,1,September,Wednesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,21,Female
+1,1,September,Tuesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,40,29,Male
+1,0,September,Sunday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,40,21,Male
+1,0,September,Saturday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,25,23,Male
+2,0,September,Sunday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,21,Male
+1,0,September,Monday,Local Street,Tree (Standing Only),Not Col. Moving,No,Yes,35,22,Male
+2,0,September,Friday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,,53,Male
+3,0,September,Tuesday,U.S. Highway,Rollover/Overturn,Not Col. Moving,No,No/unknown,55,58,Male
+1,0,September,Friday,Local Street,Tree (Standing Only),Not Col. Moving,No,No/unknown,25,46,Male
+2,0,September,Wednesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,36,Female
+1,0,September,Sunday,County Road,Other Fixed Object,Not Col. Moving,Yes,No/unknown,55,31,Male
+2,0,September,Sunday,Local Street,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,35,74,Male
+2,0,September,Sunday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,Yes,70,27,Male
+1,0,September,Sunday,Local Street,Fell/Jumped from Vehicle,Not Col. Moving,Yes,No/unknown,25,28,Male
+2,0,September,Saturday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,19,Male
+2,0,September,Sunday,Interstate,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,70,40,Female
+1,0,September,Saturday,State Highway,Tree (Standing Only),Not Col. Moving,No,Yes,30,21,Male
+2,0,September,Tuesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,21,Male
+1,1,September,Monday,U.S. Highway,Pedalcyclist,Not Col. Moving,No,No/unknown,55,61,Male
+1,0,September,Tuesday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,29,Male
+2,0,September,Wednesday,Interstate,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",Other/Unknown,No,No/unknown,60,66,Male
+1,0,September,Sunday,Interstate,Guardrail End,Not Col. Moving,Yes,No/unknown,70,59,Male
+2,0,September,Sunday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,45,52,Male
+2,0,September,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,22,Female
+2,0,September,Thursday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,70,18,Female
+3,0,September,Sunday,State Highway,Motor Vehicle In-Transport,Sideswipe,Yes,No/unknown,35,,Unknown
+1,1,September,Tuesday,U.S. Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,51,Female
+1,0,September,Saturday,Interstate,Traffic Sign Support,Not Col. Moving,Yes,No/unknown,70,73,Male
+2,0,June,Sunday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,23,Female
+1,1,August,Saturday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,25,50,Male
+1,0,September,Tuesday,Interstate,Bridge Pier or Support,Not Col. Moving,No,No/unknown,55,33,Male
+1,0,October,Friday,Local Street,Fence,Not Col. Moving,Yes,Yes,35,21,Male
+1,1,September,Wednesday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,35,,Unknown
+1,1,October,Sunday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,33,Male
+2,0,September,Monday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,35,60,Female
+1,0,September,Tuesday,U.S. Highway,Tree (Standing Only),Not Col. Moving,No,Yes,70,23,Male
+1,1,October,Sunday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,39,Female
+1,0,September,Friday,Interstate,Rollover/Overturn,Not Col. Moving,Yes,Yes,70,47,Female
+2,0,September,Wednesday,Interstate,Fell/Jumped from Vehicle,Not Col. Moving,No,No/unknown,70,48,Male
+2,0,October,Monday,County Road,Motor Vehicle In-Transport,Angle,No,Yes,,27,Male
+1,0,September,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,17,Male
+1,1,October,Wednesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,70,18,Male
+1,0,September,Sunday,County Road,Live Animal,Not Col. Moving,Yes,No/unknown,55,49,Female
+2,0,September,Friday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,30,38,Male
+1,0,October,Thursday,County Road,Ditch,Not Col. Moving,Yes,Yes,55,69,Male
+1,0,September,Monday,County Road,Rollover/Overturn,Not Col. Moving,Yes,No/unknown,55,22,Female
+1,0,October,Saturday,Interstate,Bridge Pier or Support,Not Col. Moving,No,Yes,70,49,Male
+1,0,October,Monday,Interstate,Bridge Pier or Support,Not Col. Moving,No,No/unknown,70,77,Male
+1,1,October,Saturday,U.S. Highway,Pedestrian,Not Col. Moving,No,No/unknown,50,43,Female
+1,1,September,Tuesday,U.S. Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,64,Female
+2,0,September,Monday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,91,Female
+2,1,October,Monday,Local Street,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,25,18,Female
+2,0,September,Sunday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,55,32,Male
+1,0,September,Saturday,Local Street,Fell/Jumped from Vehicle,Not Col. Moving,No,No/unknown,25,26,Male
+1,1,September,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,23,Female
+1,1,June,Thursday,State Highway,Non-Motorist on Personal Conveyance,Not Col. Moving,No,No/unknown,40,25,Male
+1,1,August,Friday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,42,Male
+2,0,August,Tuesday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,35,52,Female
+1,1,October,Friday,Local Street,Pedalcyclist,Not Col. Moving,No,No/unknown,25,48,Male
+2,0,October,Tuesday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,54,Male
+1,1,October,Wednesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,46,Male
+2,0,October,Monday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,70,22,Male
+1,1,October,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,58,Male
+1,0,October,Thursday,County Road,Live Animal,Not Col. Moving,No,Yes,35,19,Male
+1,1,October,Saturday,Interstate,Pedestrian,Not Col. Moving,No,No/unknown,70,24,Female
+2,0,October,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,32,Female
+1,1,October,Thursday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,60,Male
+2,0,October,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,42,Male
+2,0,October,Sunday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,45,34,Female
+1,0,October,Saturday,Local Street,Other Fixed Object,Not Col. Moving,No,No/unknown,35,70,Male
+2,0,October,Sunday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,42,Female
+1,1,October,Monday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,50,25,Female
+1,0,October,Tuesday,County Road,Ditch,Not Col. Moving,No,Yes,55,20,Female
+1,1,October,Sunday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,33,Male
+1,0,October,Friday,County Road,Embankment,Not Col. Moving,No,Yes,55,22,Male
+1,1,October,Tuesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,,Unknown
+1,1,October,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,71,Female
+1,0,October,Monday,Local Street,Guardrail Face,Not Col. Moving,Yes,No/unknown,25,56,Male
+1,0,October,Wednesday,Interstate,Traffic Sign Support,Not Col. Moving,No,No/unknown,70,30,Female
+2,0,May,Thursday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,27,Female
+1,0,August,Tuesday,County Road,Curb,Not Col. Moving,No,No/unknown,25,85,Female
+2,0,October,Friday,State Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,50,27,Male
+1,1,October,Saturday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,53,Male
+1,0,October,Friday,County Road,Tree (Standing Only),Not Col. Moving,Yes,Yes,55,46,Male
+1,1,October,Tuesday,County Road,Pedalcyclist,Not Col. Moving,No,No/unknown,55,40,Male
+4,0,October,Friday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,70,22,Male
+2,0,October,Sunday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,45,84,Male
+2,0,October,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,28,Male
+1,0,October,Monday,Interstate,Embankment,Not Col. Moving,No,Yes,55,39,Male
+1,1,October,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,,Unknown
+2,0,October,Sunday,Local Street,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,40,21,Male
+2,0,October,Monday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,22,Male
+2,0,October,Tuesday,Interstate,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,70,72,Male
+2,0,July,Wednesday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,41,Female
+1,0,September,Tuesday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,20,Male
+1,0,October,Thursday,County Road,Parked Motor Vehicle,Not Col. Moving,No,No/unknown,40,41,Female
+1,0,October,Tuesday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,33,Male
+1,0,October,Saturday,Interstate,Fell/Jumped from Vehicle,Not Col. Moving,No,No/unknown,70,49,Male
+1,0,September,Monday,County Road,Fell/Jumped from Vehicle,Not Col. Moving,No,No/unknown,55,17,Male
+1,0,October,Saturday,County Road,Guardrail End,Not Col. Moving,Yes,No/unknown,55,53,Male
+1,0,October,Friday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,24,Male
+2,0,October,Friday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,55,51,Male
+1,0,November,Monday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,31,Male
+2,0,October,Wednesday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,76,Female
+1,0,October,Tuesday,State Highway,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,57,Male
+2,0,November,Monday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,56,Male
+1,1,October,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,40,39,Male
+1,1,October,Thursday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,87,Male
+3,0,November,Wednesday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,50,27,Male
+2,0,October,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,88,Female
+2,0,October,Saturday,County Road,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,50,23,Male
+1,0,October,Thursday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,35,Male
+2,0,November,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,68,Male
+2,0,October,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,Yes,Yes,55,29,Male
+1,0,November,Sunday,County Road,Ditch,Not Col. Moving,Yes,No/unknown,55,24,Male
+2,0,November,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,52,Female
+1,0,October,Monday,Local Street,Rollover/Overturn,Not Col. Moving,No,Yes,25,27,Male
+1,0,October,Tuesday,State Highway,Tree (Standing Only),Not Col. Moving,Yes,Yes,40,33,Male
+1,0,October,Friday,State Highway,Curb,Not Col. Moving,No,No/unknown,35,72,Male
+2,0,November,Friday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,37,Male
+1,1,October,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,,Unknown
+2,2,October,Sunday,Local Street,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,30,51,Male
+2,0,November,Friday,Local Street,Motor Vehicle In-Transport,Front-to-Front,Yes,No/unknown,45,48,Male
+1,0,October,Friday,Local Street,Tree (Standing Only),Not Col. Moving,No,Yes,35,23,Male
+1,0,November,Saturday,State Highway,Tree (Standing Only),Not Col. Moving,No,Yes,55,46,Male
+1,0,November,Sunday,County Road,Mail Box,Not Col. Moving,Yes,No/unknown,55,59,Male
+2,0,October,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,45,Female
+1,0,October,Wednesday,County Road,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,55,47,Female
+2,0,November,Tuesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,73,Male
+4,0,October,Thursday,Local Street,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,35,62,Male
+2,0,November,Sunday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,64,Male
+4,0,November,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,70,47,Female
+1,1,November,Saturday,Interstate,Pedestrian,Not Col. Moving,No,No/unknown,70,19,Male
+3,0,August,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,45,Female
+1,1,September,Saturday,State Highway,Pedalcyclist,Not Col. Moving,No,No/unknown,55,67,Female
+1,1,November,Tuesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,25,61,Male
+2,0,November,Wednesday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,44,Female
+2,0,November,Saturday,State Highway,Motor Vehicle In-Transport,Angle,Yes,No/unknown,,24,Male
+1,0,November,Monday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,16,Male
+2,0,November,Tuesday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,38,Male
+1,0,November,Wednesday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,55,63,Male
+1,0,December,Monday,County Road,Embankment,Not Col. Moving,Yes,Yes,55,22,Male
+1,1,December,Wednesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,40,60,Male
+1,0,December,Wednesday,Local Street,Building,Not Col. Moving,No,No/unknown,30,26,Male
+2,0,September,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,45,65,Male
+1,0,December,Saturday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,44,Male
+1,0,December,Saturday,State Highway,Guardrail End,Not Col. Moving,No,Yes,,36,Male
+1,1,November,Wednesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,26,Male
+1,1,December,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,45,89,Male
+1,1,December,Monday,Local Street,Pedalcyclist,Not Col. Moving,No,No/unknown,35,48,Female
+1,0,December,Wednesday,State Highway,Embankment,Not Col. Moving,Yes,No/unknown,55,39,Female
+1,1,November,Sunday,Interstate,Pedestrian,Not Col. Moving,No,No/unknown,70,66,Female
+2,0,December,Thursday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,45,62,Female
+1,0,November,Monday,Local Street,Tree (Standing Only),Not Col. Moving,No,Yes,25,20,Male
+1,0,December,Monday,Interstate,Tree (Standing Only),Not Col. Moving,No,Yes,55,59,Male
+1,0,November,Monday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,70,64,Male
+1,0,December,Wednesday,County Road,Traffic Sign Support,Not Col. Moving,No,Yes,55,20,Male
+1,1,December,Tuesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,65,Female
+2,0,December,Monday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,85,Male
+2,2,December,Wednesday,Interstate,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,,19,Female
+4,0,November,Tuesday,U.S. Highway,Guardrail Face,Not Col. Moving,No,Yes,70,54,Male
+1,0,December,Thursday,County Road,Rollover/Overturn,Not Col. Moving,No,Yes,55,85,Male
+1,0,December,Thursday,Interstate,Rollover/Overturn,Not Col. Moving,No,Yes,70,58,Male
+1,0,November,Tuesday,County Road,Railway Vehicle,Not Col. Moving,No,No/unknown,35,21,Male
+1,0,December,Wednesday,Local Street,Bridge Pier or Support,Not Col. Moving,No,No/unknown,35,27,Male
+2,0,December,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,45,44,Male
+4,0,November,Saturday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,55,37,Male
+1,0,December,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,37,Male
+1,0,December,Wednesday,County Road,Embankment,Not Col. Moving,No,Yes,55,31,Male
+2,0,December,Friday,Interstate,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,70,53,Male
+1,0,December,Wednesday,Local Street,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,53,Male
+1,0,December,Tuesday,Local Street,Traffic Sign Support,Not Col. Moving,Yes,No/unknown,35,43,Male
+2,0,December,Monday,County Road,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,40,84,Male
+1,0,December,Friday,Local Street,Ditch,Not Col. Moving,No,No/unknown,45,67,Male
+2,0,December,Saturday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,62,Female
+1,0,December,Wednesday,State Highway,Traffic Sign Support,Not Col. Moving,Yes,No/unknown,55,22,Female
+1,0,December,Saturday,Interstate,Tree (Standing Only),Not Col. Moving,No,Yes,70,40,Male
+2,0,December,Wednesday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,23,Male
+1,0,December,Friday,Interstate,Other Object (not fixed),Not Col. Moving,Yes,No/unknown,35,21,Male
+1,0,November,Saturday,Local Street,Rollover/Overturn,Not Col. Moving,No,No/unknown,25,39,Male
+1,0,December,Monday,U.S. Highway,Rollover/Overturn,Not Col. Moving,Yes,No/unknown,55,52,Male
+1,1,December,Tuesday,U.S. Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,39,Male
+1,1,December,Thursday,State Highway,Pedestrian,Not Col. Moving,Yes,No/unknown,55,58,Male
+3,0,December,Friday,U.S. Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,70,41,Male
+1,1,December,Sunday,U.S. Highway,Pedestrian,Not Col. Moving,Yes,No/unknown,50,24,Male
+1,0,December,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,56,Male
+2,0,December,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,25,Female
+1,1,December,Wednesday,County Road,Pedalcyclist,Not Col. Moving,No,No/unknown,45,32,Male
+7,1,December,Saturday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,45,17,Female
+1,0,December,Thursday,County Road,Traffic Sign Support,Not Col. Moving,Yes,Yes,55,23,Male
+1,0,December,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,25,Male
+1,0,December,Monday,County Road,Rollover/Overturn,Not Col. Moving,Yes,Yes,55,21,Female
+1,1,December,Wednesday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,35,69,Male
+1,0,December,Saturday,County Road,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,55,27,Male
+2,0,December,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,19,Male
+1,1,April,Monday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,30,,Unknown
+1,0,December,Sunday,Local Street,Tree (Standing Only),Not Col. Moving,No,Yes,25,20,Male
+1,0,December,Friday,Local Street,Fire Hydrant,Not Col. Moving,No,Yes,25,19,Male
+1,0,December,Friday,County Road,Rollover/Overturn,Not Col. Moving,Yes,No/unknown,55,20,Female
+2,0,September,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,40,40,Male
+2,0,December,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,35,18,Male
+1,0,November,Wednesday,County Road,Other Fixed Object,Not Col. Moving,Yes,Yes,55,67,Male
+2,0,December,Thursday,Local Street,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,45,85,Female
+1,0,November,Saturday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,45,19,Male
+1,0,November,Wednesday,County Road,Boulder,Not Col. Moving,Yes,Yes,55,18,Male
+2,0,November,Sunday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,43,Male
+1,1,December,Saturday,Local Street,Pedalcyclist,Not Col. Moving,No,No/unknown,,,Unknown
+1,0,November,Saturday,Local Street,Curb,Not Col. Moving,No,No/unknown,35,33,Female
+1,0,December,Tuesday,County Road,Utility Pole/Light Support,Not Col. Moving,Yes,Yes,55,50,Male
+2,0,November,Monday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,Yes,55,40,Female
+2,0,December,Wednesday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,56,Male
+1,0,November,Saturday,Interstate,Tree (Standing Only),Not Col. Moving,No,No/unknown,70,35,Female
+1,1,December,Wednesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,55,22,Male
+1,0,December,Saturday,Interstate,Concrete Traffic Barrier,Not Col. Moving,No,No/unknown,70,32,Male
+1,0,December,Saturday,Local Street,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,25,23,Male
+1,1,November,Tuesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,35,42,Male
+2,0,November,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,33,Male
+2,0,November,Wednesday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,68,Female
+1,0,November,Wednesday,State Highway,Tree (Standing Only),Not Col. Moving,Yes,No/unknown,55,32,Female
+2,0,November,Tuesday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,55,76,Male
+1,1,December,Saturday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,21,Male
+1,1,November,Wednesday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,40,51,Female
+2,0,November,Sunday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,65,Male
+3,0,November,Tuesday,State Highway,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,29,Female
+2,0,December,Thursday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,45,35,Male
+1,0,November,Wednesday,Local Street,Curb,Not Col. Moving,No,No/unknown,30,45,Male
+5,0,November,Sunday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,70,25,Male
+1,0,November,Wednesday,U.S. Highway,Rollover/Overturn,Not Col. Moving,No,Yes,55,86,Male
+1,0,December,Saturday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,45,65,Male
+1,0,November,Friday,Local Street,Parked Motor Vehicle,Not Col. Moving,No,No/unknown,25,39,Female
+2,0,November,Saturday,State Highway,Motor Vehicle In-Transport,Angle,No,Yes,45,40,Male
+1,1,November,Tuesday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,26,Female
+2,0,December,Sunday,State Highway,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",Other/Unknown,No,No/unknown,55,24,Female
+4,0,December,Wednesday,Local Street,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,50,65,Female
+1,1,November,Friday,Local Street,Pedestrian,Not Col. Moving,No,No/unknown,25,44,Male
+1,0,November,Tuesday,Local Street,Railway Vehicle,Not Col. Moving,No,No/unknown,25,54,Male
+2,0,November,Sunday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,,51,Male
+2,0,November,Thursday,State Highway,Motor Vehicle In-Transport,Sideswipe,No,Yes,55,23,Male
+1,0,November,Wednesday,County Road,Tree (Standing Only),Not Col. Moving,No,Yes,55,37,Male
+1,1,November,Sunday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,35,28,Male
+3,0,November,Thursday,U.S. Highway,Traffic Sign Support,Not Col. Moving,No,Yes,55,76,Male
+1,1,December,Monday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,45,,Unknown
+2,0,May,Tuesday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,55,54,Male
+2,0,July,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,94,Male
+1,0,October,Saturday,County Road,Utility Pole/Light Support,Not Col. Moving,Yes,Yes,25,23,Male
+2,0,November,Saturday,Local Street,Motor Vehicle In-Transport,Angle,Yes,No/unknown,25,32,Female
+2,0,November,Wednesday,U.S. Highway,Motor Vehicle In-Transport,Angle,No,Yes,50,60,Male
+1,1,November,Tuesday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,50,40,Male
+1,0,September,Saturday,U.S. Highway,Parked Motor Vehicle,Not Col. Moving,No,No/unknown,70,54,Female
+1,0,August,Friday,State Highway,Utility Pole/Light Support,Not Col. Moving,No,No/unknown,40,53,Female
+2,1,August,Sunday,State Highway,Motor Vehicle In-Transport,Angle,Yes,No/unknown,55,,Unknown
+3,0,September,Friday,State Highway,Bridge Overhead Structure,Not Col. Moving,No,No/unknown,55,54,Male
+1,0,May,Sunday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,16,Male
+3,0,November,Monday,State Highway,Motor Vehicle In-Transport,Sideswipe,No,No/unknown,50,71,Male
+1,1,December,Friday,State Highway,Pedestrian,Not Col. Moving,No,No/unknown,45,34,Male
+1,0,December,Tuesday,County Road,Tree (Standing Only),Not Col. Moving,No,No/unknown,55,54,Male
+1,0,May,Sunday,U.S. Highway,Utility Pole/Light Support,Not Col. Moving,No,No/unknown,35,56,Female
+2,0,February,Saturday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,56,Male
+1,0,February,Monday,Interstate,Other Traffic Barrier,Not Col. Moving,No,Yes,70,78,Male
+1,0,March,Wednesday,Local Street,Other Fixed Object,Not Col. Moving,No,No/unknown,35,83,Male
+1,1,May,Monday,State Highway,Pedalcyclist,Not Col. Moving,No,No/unknown,35,20,Male
+2,0,June,Tuesday,Local Street,Motor Vehicle In-Transport,Angle,No,No/unknown,40,89,Female
+2,0,June,Sunday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,55,41,Female
+2,0,June,Thursday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,72,Male
+2,0,August,Thursday,County Road,Motor Vehicle In-Transport,Front-to-Front,No,No/unknown,45,89,Female
+1,0,August,Wednesday,State Highway,Curb,Not Col. Moving,No,No/unknown,35,86,Female
+1,0,August,Sunday,County Road,Live Animal,Not Col. Moving,No,No/unknown,55,57,Female
+2,0,August,Friday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,50,39,Female
+2,0,September,Friday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,45,63,Female
+2,0,October,Tuesday,Interstate,Motor Vehicle In-Transport,Front-to-Rear,No,No/unknown,70,61,Male
+2,0,October,Monday,Interstate,Motor Vehicle In-Transport,Angle,No,No/unknown,,76,Male
+3,0,October,Friday,State Highway,Motor Vehicle In-Transport,Angle,No,No/unknown,,53,Male
+2,0,November,Thursday,County Road,Motor Vehicle In-Transport,Angle,No,No/unknown,,84,Female
+2,0,December,Monday,State Highway,Motor Vehicle In-Transport,Front-to-Rear,No,Yes,55,76,Female
+2,0,December,Thursday,County Road,Motor Vehicle In-Transport,Sideswipe,Yes,No/unknown,45,51,Male
+1,1,October,Thursday,County Road,Pedestrian,Not Col. Moving,No,No/unknown,55,50,Male
+2,0,July,Friday,County Road,Motor Vehicle In-Transport,Angle,Yes,No/unknown,55,33,Male

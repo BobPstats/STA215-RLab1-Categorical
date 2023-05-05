@@ -1,0 +1,537 @@
+Height,Shoesize,Armspan,Cubit,Attract,CDs,Miles,Work,Change,Sex,Live,Class,Birth,Grade,Tongue
+65,9,64,,7,78,60,0,0,f,campus housing,Freshman,Kent County,A,yes
+69,9.5,69,,7,30,0,10,0,m,campus housing,Freshman,Kent County,A,yes
+67.25,10,69,,6.5,25,0,15,0.35,f,campus housing,Freshman,Kent County,A,yes
+69,10,64,16,7,30,0,0,0.52,f,campus housing,Freshman,Kent County,A,yes
+72.75,12,53,,7,28,46,20,0,m,family home,Freshman,Kent County,A,yes
+76,12.5,99,,7,25,35,0,0,m,family home,Freshman,Kent County,A,yes
+69.5,11.5,67.5,,10,100,17.5,7.25,0,f,campus housing,Sophomore,Kent County,A,yes
+72,13,71,18,7,10,0,30,5,m,campus housing,Sophomore,Kent County,A,yes
+68,9.4,65.5,18,8,20,25,15,0,f,apartment,Sophomore,Kent County,A,yes
+61.75,9.5,58.5,,7,70,1,13,0,f,apartment,Sophomore,Kent County,A,yes
+71,10,70,20,9,15,30,25,0,f,apartment,Sophomore,Kent County,A,yes
+64.5,11,63.75,,7,25,1,27,0.75,f,apartment,Sophomore,Kent County,A,yes
+69.5,12,66,,7,,2,0,0,m,apartment,Sophomore,Kent County,A,yes
+71.75,12,72,,7,40,1,18,0.86,m,apartment,Sophomore,Kent County,A,yes
+63.75,9.5,61,,6,2,11.4,36,0,f,family home,Sophomore,Kent County,A,yes
+68,9.75,70,,8,45,10,0,0.48,f,family home,Sophomore,Kent County,A,yes
+69,10.75,65.3,,10,20,15,10,0,f,family home,Sophomore,Kent County,A,yes
+67,12.25,67.5,,5,40,8,0,1.44,f,family home,Sophomore,Kent County,A,yes
+72.75,12.5,73.5,,7,20,25,50,0,m,family home,Sophomore,Kent County,A,yes
+72.5,12.75,70,,8,12,17,12,0.05,m,family home,Sophomore,Kent County,A,yes
+75,12.75,75,,7,25,22,16,0.25,m,family home,Sophomore,Kent County,A,yes
+69.5,10.5,66,,7,0,11,15,0,f,campus housing,Junior,Kent County,A,yes
+71,11.5,69,,7,200,0.25,17.5,0,m,apartment,Junior,Kent County,A,yes
+67,12,69.25,,8,200,0.5,20,0,m,apartment,Junior,Kent County,A,yes
+71,13,70,,10,3,1.5,40,0.15,m,apartment,Junior,Kent County,A,yes
+64,8,62,,7,107,7,25,22.95,f,family home,Junior,Kent County,A,yes
+68,11,63,18,8,40,25,20,1.23,f,family home,Junior,Kent County,A,yes
+68,12,67,18.5,7,50,4,10,0.47,f,family home,Junior,Kent County,A,yes
+69.5,12,67.5,,7,200,5.5,34,0.25,m,family home,Junior,Kent County,A,yes
+72,12,68.5,,7,60,22,20,0,m,family home,Junior,Kent County,A,yes
+73.75,12.75,77,,3,50,8,24,0,m,family home,Junior,Kent County,A,yes
+71,11.75,69.5,,8,20,10,0,0,m,other,Junior,Kent County,A,yes
+71.25,12,70.5,19.5,8,,8,18,0.82,m,apartment,Senior,Kent County,A,yes
+70,12.75,72.5,,,200,25,27.5,0,m,apartment,Senior,Kent County,A,yes
+70,8,66,,6,200,30,0,0,m,family home,Senior,Kent County,A,yes
+74,13,72.25,,7,100,8,20,0.6,m,family home,Senior,Kent County,A,yes
+63,11,61.5,,7,120,15,20,0,f,other,Senior,Kent County,A,yes
+69.5,10.75,66,15,9,0,30,7,0,m,family home,Other,Kent County,A,yes
+74,12,76,,6,10,10,15,0,m,other,Other,Kent County,A,yes
+66,8.5,67.5,,6,80,30,20,0.21,f,family home,,Kent County,A,yes
+59.5,10.5,58.75,,8.5,7,0,8,1.1,f,campus housing,Freshman,Ottawa County,A,yes
+68,8,61,,7,200,10,32.5,0.64,f,family home,Freshman,Ottawa County,A,yes
+62.75,10.25,62,,9,78,10,20,0.7,f,family home,Freshman,Ottawa County,A,yes
+75,11,70,,7,150,6,12,1.05,m,family home,Freshman,Ottawa County,A,yes
+63,8,63,,8,60,20,12,0.88,f,campus housing,Sophomore,Ottawa County,A,yes
+63,9,65.75,,7,75,0.2,12,0.47,f,apartment,Sophomore,Ottawa County,A,yes
+68,9.5,66,,6,70,20,12.5,0.8,f,apartment,Sophomore,Ottawa County,A,yes
+74.5,12.5,69.75,19,8,14,0,15,0,m,apartment,Sophomore,Ottawa County,A,yes
+65.75,8.5,61,,8,10,22,15,0,f,family home,Sophomore,Ottawa County,A,yes
+65,10.5,64,,7,25,10,30,0,f,family home,Sophomore,Ottawa County,A,yes
+72,10.5,73,,6,75,5,10,0.35,m,family home,Sophomore,Ottawa County,A,yes
+61.5,11,61,16,5,3,13,0,0,f,campus housing,Junior,Ottawa County,A,yes
+70,11.5,73,,7,50,1,0,0.21,m,apartment,Junior,Ottawa County,A,yes
+63.25,9,63,,6.5,20,40,32.5,0,f,family home,Junior,Ottawa County,A,yes
+67.75,10.75,60.25,17.5,10,20,10,14.5,0,f,family home,Junior,Ottawa County,A,yes
+69,10.75,66,18.25,,20,15,8,5.39,f,family home,Junior,Ottawa County,A,yes
+70,12,66.5,18.25,7,100,15,18,1.81,m,family home,Junior,Ottawa County,A,yes
+74,12.25,79,,8,250,5,30,0,m,family home,Junior,Ottawa County,A,yes
+71.75,9.25,71.5,,5,17,15,28,0,f,other,Senior,Ottawa County,A,yes
+66.75,10,64,,7,50,15,12,0.69,f,family home,Other,Ottawa County,A,yes
+60,6,54.5,,7,15,90,6,0,f,campus housing,Freshman,Michigan,A,yes
+61,6,57.25,,5,20,0,0,0.5,f,campus housing,Freshman,Michigan,A,yes
+61.25,6.5,59,,10,100,0,0,0,f,campus housing,Freshman,Michigan,A,yes
+64,8.5,62,,8,100,0.25,10,0,f,campus housing,Freshman,Michigan,A,yes
+65,9,62,,7,300,0,7.5,0,m,campus housing,Freshman,Michigan,A,yes
+67,10,65,,7.5,,0,,0,f,campus housing,Freshman,Michigan,A,yes
+65.25,10.25,65.5,17.25,7,0,80,0,0,f,campus housing,Freshman,Michigan,A,yes
+65.25,10.5,63,,6,30,180,15,0.13,f,campus housing,Freshman,Michigan,A,yes
+67.75,10.5,66.25,,7,50,150,20,0,f,campus housing,Freshman,Michigan,A,yes
+69.75,10.5,70.75,,7,5,95,8,0,m,campus housing,Freshman,Michigan,A,yes
+70,11.5,72.5,,10,5,0,0,0,m,campus housing,Freshman,Michigan,A,yes
+72,12,71,,7,20,150,0,0,m,campus housing,Freshman,Michigan,A,yes
+75,12,75.5,,8,1000,0,0,0,m,campus housing,Freshman,Michigan,A,yes
+74,13,75.25,,5,20,120,,0,m,campus housing,Freshman,Michigan,A,yes
+70,10.5,67,,1,2,1,0,0.03,m,apartment,Freshman,Michigan,A,yes
+72,13,69,18.75,6,0,1,0,0,m,apartment,Freshman,Michigan,A,yes
+67.75,9,68.75,,7,80,95,0,1.73,f,campus housing,Sophomore,Michigan,A,yes
+60.75,9.75,60.75,,7,85,15,20,0.92,f,campus housing,Sophomore,Michigan,A,yes
+62,9.75,60.5,14.5,8,50,0,0,0,f,campus housing,Sophomore,Michigan,A,yes
+63,10,61.75,,6,25,8,10,0.25,f,campus housing,Sophomore,Michigan,A,yes
+64,10,69.75,,8,40,150,0,0.1,f,campus housing,Sophomore,Michigan,A,yes
+64.5,10,63,,8,50,0,15,0.77,f,campus housing,Sophomore,Michigan,A,yes
+65,10,60.5,16.25,7,0,0,0,0,f,campus housing,Sophomore,Michigan,A,yes
+68,10,61,16.5,7,0,0,18,0.35,f,campus housing,Sophomore,Michigan,A,yes
+65.25,10.25,61,,10,60,0,0,0,f,campus housing,Sophomore,Michigan,A,yes
+67,10.25,61.25,17.75,5,0,0,0,,f,campus housing,Sophomore,Michigan,A,yes
+71,10.5,,,8,90,120,0,0.06,m,campus housing,Sophomore,Michigan,A,yes
+67,11,66,19,6,20,0,0,1.5,f,campus housing,Sophomore,Michigan,A,yes
+72,11,72.5,18.25,5,20,0,17.5,0,m,campus housing,Sophomore,Michigan,A,yes
+72.5,11,70.75,18.25,7,25,0,0,0,f,campus housing,Sophomore,Michigan,A,yes
+72,11.5,72,21,11,3,200,0,0,m,campus housing,Sophomore,Michigan,A,yes
+66,11.75,68,,8,5,0,12,0,f,campus housing,Sophomore,Michigan,A,yes
+68,11.75,66.25,17.5,7,15,0,0,0,m,campus housing,Sophomore,Michigan,A,yes
+70.5,11.75,69.25,,7,20,0,20,2.36,m,campus housing,Sophomore,Michigan,A,yes
+73.25,13,71.5,,7,5,0,0,0,m,campus housing,Sophomore,Michigan,A,yes
+64,8.5,64,,6,24,1.25,22.5,0,f,apartment,Sophomore,Michigan,A,yes
+68.75,8.75,64.5,,8,,1,32,0,f,apartment,Sophomore,Michigan,A,yes
+60.5,9.5,60.75,,5,200,1,0,0,f,apartment,Sophomore,Michigan,A,yes
+62.75,9.5,59.5,15.5,7,20,3,0,0.85,f,apartment,Sophomore,Michigan,A,yes
+63,9.5,63,,8,3,2,20,0,f,apartment,Sophomore,Michigan,A,yes
+63.5,9.5,56,,8,80,0.75,20,0,f,apartment,Sophomore,Michigan,A,yes
+69,9.5,67,,6,20,1,0,0,f,apartment,Sophomore,Michigan,A,yes
+61,9.75,59,,7,10,15,0,0.55,f,apartment,Sophomore,Michigan,A,yes
+63,9.75,61,,6,10,150,0,0.93,f,apartment,Sophomore,Michigan,A,yes
+65,9.75,60,17,5,0,0.5,0,1.92,f,apartment,Sophomore,Michigan,A,yes
+64,10,63,,8,10,1.7,0,0,f,apartment,Sophomore,Michigan,A,yes
+65.5,10,66,,13,7,1.5,25,0,f,apartment,Sophomore,Michigan,A,yes
+66,10,63.5,17,5,0,0.5,0,0.22,f,apartment,Sophomore,Michigan,A,yes
+66,10,59,19,5,2,150,0,0,f,apartment,Sophomore,Michigan,A,yes
+66.125,10,64.125,,7,150,1,0,0.75,m,apartment,Sophomore,Michigan,A,yes
+66.75,10,59,16.5,7,10,1,14,0.1,f,apartment,Sophomore,Michigan,A,yes
+68,10,64,16.5,6,0,0.5,0,3,f,apartment,Sophomore,Michigan,A,yes
+68,10,64.625,,8,80,2,0,0,f,apartment,Sophomore,Michigan,A,yes
+68.25,10,61.5,17,7,25,0.25,0,1.25,f,apartment,Sophomore,Michigan,A,yes
+65,10.25,65,,10,50,200,0,0,f,apartment,Sophomore,Michigan,A,yes
+65.5,10.25,64.5,17,7,8,0,0,0,f,apartment,Sophomore,Michigan,A,yes
+66.75,10.25,66.25,,10,30,1,8,0,f,apartment,Sophomore,Michigan,A,yes
+61,10.5,56,15,7,10,0.5,11,0,f,apartment,Sophomore,Michigan,A,yes
+61.75,10.5,62,,6,23,2,14,1.86,f,apartment,Sophomore,Michigan,A,yes
+61.75,10.5,60,,7.3,50,1,0,0,f,apartment,Sophomore,Michigan,A,yes
+62,10.5,64.75,,4,30,1,12,0,f,apartment,Sophomore,Michigan,A,yes
+64.25,10.5,64.75,,6,50,25,0,3.23,f,apartment,Sophomore,Michigan,A,yes
+66,10.5,69,,7.5,,1,27.5,0,m,apartment,Sophomore,Michigan,A,yes
+67.75,10.5,66.25,,7,150,,0,0,f,apartment,Sophomore,Michigan,A,yes
+68.5,10.5,64.5,,5,20,0.5,0,0,f,apartment,Sophomore,Michigan,A,yes
+69,10.5,65,,7,20,1,4,0,f,apartment,Sophomore,Michigan,A,yes
+62.5,10.75,62.25,16.75,6,40,1.5,20,0,f,apartment,Sophomore,Michigan,A,yes
+62,11,65,,7,150,2,0,0,f,apartment,Sophomore,Michigan,A,yes
+64,11,63,,8,35,1,0,0.2,f,apartment,Sophomore,Michigan,A,yes
+64,11,62.5,,8,70,115,0,0,f,apartment,Sophomore,Michigan,A,yes
+68,11,65,18,10,0,1,0,0,m,apartment,Sophomore,Michigan,A,yes
+68,11,66.5,,3,70,1,0,15.85,f,apartment,Sophomore,Michigan,A,yes
+70.5,11,72.25,,6,18,1,20,0,m,apartment,Sophomore,Michigan,A,yes
+71.5,11.25,71,17.75,7,3,1,20,0,m,apartment,Sophomore,Michigan,A,yes
+63,11.3,61.5,,8,20,190,0,0,f,apartment,Sophomore,Michigan,A,yes
+63,11.5,63,,6,25,1,0,0.45,f,apartment,Sophomore,Michigan,A,yes
+70,11.5,67,18.5,,7,1.5,0,0,m,apartment,Sophomore,Michigan,A,yes
+70.5,11.5,67.5,,8,90,150,15,0,m,apartment,Sophomore,Michigan,A,yes
+68.25,11.75,69.25,,10,7,4.5,12,0.12,f,apartment,Sophomore,Michigan,A,yes
+71.25,11.75,73.25,,2,0,0.25,25,0.56,m,apartment,Sophomore,Michigan,A,yes
+71.25,11.75,72.5,20,10,4,2,8,0,m,apartment,Sophomore,Michigan,A,yes
+72,12,74,,10,10,0.5,0,1,m,apartment,Sophomore,Michigan,A,yes
+72,12,69.5,,8,12,164,0,0.36,m,apartment,Sophomore,Michigan,A,yes
+72,12,72,,6,15,15,0,0.25,m,apartment,Sophomore,Michigan,A,yes
+72,12,71.5,,5,100,80,12,0,m,apartment,Sophomore,Michigan,A,yes
+72.75,12,69.5,,3,30,0.5,10,0,m,apartment,Sophomore,Michigan,A,yes
+74,12,74,,5,20,120,0,30,m,apartment,Sophomore,Michigan,A,yes
+74.5,12,71.5,,7,8,1.5,0,0,m,apartment,Sophomore,Michigan,A,yes
+68,12.25,67,,4,5,0,0,0,m,apartment,Sophomore,Michigan,A,yes
+69.5,12.5,66.75,18.25,10,0,1,0,0,m,apartment,Sophomore,Michigan,A,yes
+71.5,12.5,67.5,,9,70,0.1,25,0.18,m,apartment,Sophomore,Michigan,A,yes
+71.75,12.5,71.25,,7,4,0.75,13.5,0,m,apartment,Sophomore,Michigan,A,yes
+77.25,12.75,78,,10,10,2,0,0,m,apartment,Sophomore,Michigan,A,yes
+78,13,81,,7,50,0,0,0.78,m,apartment,Sophomore,Michigan,A,yes
+65,9.5,66,17.5,9,8,0,0,0.02,f,family home,Sophomore,Michigan,A,yes
+64,10,64,,10,,25,25,,f,family home,Sophomore,Michigan,A,yes
+71,12,72,,7,100,25,20,0,m,family home,Sophomore,Michigan,A,yes
+52.1,12.1,63.8,18.1,7,3,1.5,0,0.16,m,family home,Sophomore,Michigan,A,yes
+63.75,9,63.75,,8,50,1,20,0,f,other,Sophomore,Michigan,A,yes
+64.75,9.75,67,,8,20,4,0,0.11,f,other,Sophomore,Michigan,A,yes
+61.75,7.5,60,,8,60,50,30,0,f,campus housing,Junior,Michigan,A,yes
+64,7.5,66,,7,50,80,11,0,f,campus housing,Junior,Michigan,A,yes
+59.3,9.3,57.5,,8,25,0,0,0,f,campus housing,Junior,Michigan,A,yes
+73,13,73,19.75,8,1,175,0,0,m,campus housing,Junior,Michigan,A,yes
+66.5,9,55,,10,10,72,25,2.57,f,apartment,Junior,Michigan,A,yes
+64.5,9.5,62.75,16,7,500,10,10,0,f,apartment,Junior,Michigan,A,yes
+64.75,9.5,62,,10,20,25,20,0.78,f,apartment,Junior,Michigan,A,yes
+63,10,64,18,10,1,,0,0.5,f,apartment,Junior,Michigan,A,yes
+63.75,10,61,,9,12,4.5,15,0,f,apartment,Junior,Michigan,A,yes
+65.5,10.25,61.5,,7,200,0.5,0,0,f,apartment,Junior,Michigan,A,yes
+63.5,10.5,60.5,,6,25,1,17.5,0,f,apartment,Junior,Michigan,A,yes
+70.75,10.75,69.25,,8,50,1,0,1.75,f,apartment,Junior,Michigan,A,yes
+64.5,11,58.5,,9,50,7,40,1.5,f,apartment,Junior,Michigan,A,yes
+68,12,64,17.75,6,20,150,0,0,m,apartment,Junior,Michigan,A,yes
+69,12,62,,5,30,25,0,0.59,f,apartment,Junior,Michigan,A,yes
+70,12,70.6,,7,15,1,0,0,m,apartment,Junior,Michigan,A,yes
+70,12,69,,5,160,0.5,0,0,m,apartment,Junior,Michigan,A,yes
+72.5,12,74,,8,20,7,0,1.09,m,apartment,Junior,Michigan,A,yes
+75,12,75,20,7,0,1,0,0,m,apartment,Junior,Michigan,A,yes
+65.75,12.5,65,,9,18,0,0,0,m,apartment,Junior,Michigan,A,yes
+73,12.5,69.5,,8,150,1.5,18,2,m,apartment,Junior,Michigan,A,yes
+70,12.75,65.5,16.5,10,50,1,20,0,m,apartment,Junior,Michigan,A,yes
+68,13,75,17,,2,0,0,0,m,apartment,Junior,Michigan,A,yes
+62.5,9,57,,5,40,8,30,2.75,f,family home,Junior,Michigan,A,yes
+62.25,10.75,64,,7,30,30,32,0.48,f,family home,Junior,Michigan,A,yes
+68,12.5,70,,7.5,24,20,15,0.76,m,family home,Junior,Michigan,A,yes
+69,10,66,,6,5,14,24,5.26,f,other,Junior,Michigan,A,yes
+72,10.5,76,,6,0,11,0,0.04,m,other,Junior,Michigan,A,yes
+69.75,11,70.25,,6.5,45,15,27.5,0.5,m,other,Junior,Michigan,A,yes
+71.75,11.5,73.75,,7,100,15,0,0,m,other,Junior,Michigan,A,yes
+83,11.5,77,,1,100,1.5,25,15,m,other,Junior,Michigan,A,yes
+69.75,11.75,70.5,,9,0,5.1,0,0,m,other,Junior,Michigan,A,yes
+71.25,12,71.5,19,7,50,8,12,0,m,other,Junior,Michigan,A,yes
+76,12,76.5,,7,50,15,0,0.35,m,other,Junior,Michigan,A,yes
+75,13,70,,7,10,3,0,1,m,other,Junior,Michigan,A,yes
+74,13.5,73,,8,20,10,40,0.56,m,other,Junior,Michigan,A,yes
+73,12.5,75,19,,20,0,0,0,m,campus housing,Senior,Michigan,A,yes
+65,8,67.375,,10,,0.5,12,0.15,f,apartment,Senior,Michigan,A,yes
+65,10,60,,7,25,25,20,0.64,f,apartment,Senior,Michigan,A,yes
+65.75,11,65.25,,7,40,5,20,0,m,apartment,Senior,Michigan,A,yes
+67.75,11,66,,10,35,12,0,1.24,f,apartment,Senior,Michigan,A,yes
+71.5,11.25,70.25,19.5,10,7,3,0,0,m,apartment,Senior,Michigan,A,yes
+67.75,11.75,67.75,,7,15,1,12,0.6,m,apartment,Senior,Michigan,A,yes
+72.75,12,70.5,,5,30,25,39,0,m,apartment,Senior,Michigan,A,yes
+62.5,6.5,60,,8,100,0,0,0,f,campus housing,Freshman,U.S.,A,yes
+69,11.25,69,,8,45,0,0,0.01,m,campus housing,Freshman,U.S.,A,yes
+75,13,71,19,10,0,0,0,0,m,campus housing,Freshman,U.S.,A,yes
+63,10.5,57.25,,6,100,30,20,0,f,apartment,Freshman,U.S.,A,yes
+66,10,63,16.5,7,20,0,12,0,f,campus housing,Sophomore,U.S.,A,yes
+64,10.125,61,,8,40,0.5,0,0,f,campus housing,Sophomore,U.S.,A,yes
+64.25,10.25,54.5,14.5,7,55,0,0,0,f,campus housing,Sophomore,U.S.,A,yes
+68,11,69,,7,45,0,0,0,f,campus housing,Sophomore,U.S.,A,yes
+71,12,73,,8,144,0,0,0,m,campus housing,Sophomore,U.S.,A,yes
+64,8.5,62.5,,8,50,190,0,2.85,f,apartment,Sophomore,U.S.,A,yes
+65,9.5,69,,8,300,0.5,25,0.35,m,apartment,Sophomore,U.S.,A,yes
+62,10,61,,8,20,150,36,0,f,apartment,Sophomore,U.S.,A,yes
+66,10,63,,,100,1,0,0,f,apartment,Sophomore,U.S.,A,yes
+62,11.25,62.5,,10,100,1,0,0,f,apartment,Sophomore,U.S.,A,yes
+66,11.5,61.5,,8,750,32,8,0,f,apartment,Sophomore,U.S.,A,yes
+73,12,71.5,,8,100,1.5,0,0,m,apartment,Sophomore,U.S.,A,yes
+71.75,12.25,73,18,10.5,3,1.7,0,0.05,m,apartment,Sophomore,U.S.,A,yes
+69.25,12.5,70.5,,9.9,18,2,0,0,m,apartment,Sophomore,U.S.,A,yes
+72.5,13,75.5,,7,60,23,15,0.31,m,apartment,Sophomore,U.S.,A,yes
+75.5,13.25,77.5,,7,35,0.5,20,0,m,apartment,Sophomore,U.S.,A,yes
+75,13.75,78.25,20.5,8,0,0.5,0,0,m,apartment,Sophomore,U.S.,A,yes
+73,13,75.25,,8,150,6,12,19,m,family home,Sophomore,U.S.,A,yes
+70,10.5,63.75,,8,50,0,18,0.96,m,campus housing,Junior,U.S.,A,yes
+66.25,11.5,66,,6,8,0.5,0,0,f,campus housing,Junior,U.S.,A,yes
+74,13,69,18,7,250,0.5,5,39,m,campus housing,Junior,U.S.,A,yes
+74.5,15,75,,10,0,0,32,0,m,campus housing,Junior,U.S.,A,yes
+61.5,7,58,,5,30,20,15,0,f,apartment,Junior,U.S.,A,yes
+70.75,9.5,71.5,,8,120,0,14,0,m,apartment,Junior,U.S.,A,yes
+67,10,67.5,,7,35,10,23,0.97,m,apartment,Junior,U.S.,A,yes
+73,10.5,70.125,,7,200,1,0,0.51,m,apartment,Junior,U.S.,A,yes
+66.5,11,62,,9.5,50,12,11,1.56,f,apartment,Junior,U.S.,A,yes
+73,11,76.75,,8,40,1,0,0,m,apartment,Junior,U.S.,A,yes
+70.75,11.5,73,19.5,10,3,2,20,0,m,apartment,Junior,U.S.,A,yes
+68.75,11.75,71,,9,75,2,0,0,m,apartment,Junior,U.S.,A,yes
+71,11.75,71,,6,63,10,0,0,m,apartment,Junior,U.S.,A,yes
+75,13,71.5,,6,3,1,20,0,m,apartment,Junior,U.S.,A,yes
+65,10.5,67,,5,32,25,27.5,0.99,f,family home,Junior,U.S.,A,yes
+68,11,67,17.5,7,0,37,12,0.45,f,family home,Junior,U.S.,A,yes
+62,10.5,62.5,,10,0,3,20,0,f,apartment,Senior,U.S.,A,yes
+66,9.25,65.75,,5,75,7,40,0,f,family home,Senior,U.S.,A,yes
+66,11,65,,5,,16,0,0.44,f,family home,Senior,U.S.,A,yes
+64,10.5,61,,5,0,10,0,0,f,other,Senior,U.S.,A,yes
+69.5,10.75,67,,7,40,2,0,0,m,other,Senior,U.S.,A,yes
+72.5,11.5,67,20,7,10,1,0,0,m,apartment,Sophomore,Not U.S.,A,yes
+68.75,12,64,,9,0,1.23,0,0.51,m,apartment,Sophomore,Not U.S.,A,yes
+72,12.5,73,,8,65,1,,0.68,m,apartment,Sophomore,Not U.S.,A,yes
+61.75,9.5,61.5,,6,0,5,7.5,0.6,f,family home,Sophomore,Not U.S.,A,yes
+60,10,57.5,14,7,20,25,25,0.2,f,family home,Sophomore,Not U.S.,A,yes
+61.25,7,61.5,,5,61,2,0,20.2,f,apartment,Junior,Not U.S.,A,yes
+67,10,63,,6,,1,0,20,f,apartment,Junior,Not U.S.,A,yes
+62,9.5,58,,7,50,20,15,0.75,f,family home,Other,Not U.S.,A,yes
+66.5,12.25,65.75,,7,20,15,14,0,m,campus housing,Freshman,Kent County,B,yes
+66.5,11,66.5,17.5,7,30,1,6.5,0.04,f,campus housing,Sophomore,Kent County,B,yes
+66.5,12.25,67,,6,150,0,0,0,f,campus housing,Sophomore,Kent County,B,yes
+66.25,10.5,67,15.5,7,30,1,20,0,f,apartment,Sophomore,Kent County,B,yes
+77,14,80,,10,15,6,10,0,m,apartment,Sophomore,Kent County,B,yes
+64,9,63,,7,18,25,12,0,f,family home,Sophomore,Kent County,B,yes
+67,9.5,64,,6,10,20,26,0,f,family home,Sophomore,Kent County,B,yes
+63.25,10,60,14.2,7,50,25,22.5,2,f,family home,Sophomore,Kent County,B,yes
+62,10.25,61,17,4,0,0.15,0,1.07,f,family home,Sophomore,Kent County,B,yes
+62.5,11,62,,6,45,27,20,1.39,f,family home,Sophomore,Kent County,B,yes
+64,12,64,,8,25,15,0,0,m,family home,Sophomore,Kent County,B,yes
+69.75,12,70.5,,6,20,8,35,0,m,family home,Sophomore,Kent County,B,yes
+72,12,66,,6,10,35,25,0.85,m,family home,Sophomore,Kent County,B,yes
+74.25,13,76,,8,5,6,35,0,m,family home,Sophomore,Kent County,B,yes
+69.5,11.25,67.25,,7,20,1,20,0,f,,Sophomore,Kent County,B,yes
+63,8.5,59.375,,6,120,0,0,1.3,f,campus housing,Junior,Kent County,B,yes
+74.75,13,74.5,,7,10,40,0,0.43,m,campus housing,Junior,Kent County,B,yes
+66,8.5,67,,7.5,15,5,35,27,f,apartment,Junior,Kent County,B,yes
+61.75,9.25,64.25,,7,30,15,20,1.3,f,apartment,Junior,Kent County,B,yes
+68,10,65.5,,7,72,0.5,15,0,f,apartment,Junior,Kent County,B,yes
+64,9.5,60,17,5,2,35,20,0,f,family home,Junior,Kent County,B,yes
+64,10.5,66,,7,40,6,14,0.83,f,family home,Junior,Kent County,B,yes
+58,11.75,58,18,7,20,,0,0,f,family home,Junior,Kent County,B,yes
+66,10.5,64.75,,5,30,7,15,3.37,f,apartment,Senior,Kent County,B,yes
+75,13.5,76,,6,5,25,27,4,m,family home,Senior,Kent County,B,yes
+66.25,8.5,65.5,,7,50,0,20,0,f,campus housing,Freshman,Ottawa County,B,yes
+70.25,10.25,74,,8,30,6,28,0.42,f,family home,Freshman,Ottawa County,B,yes
+70.5,14.5,70,,6,30,13,15,0.2,m,family home,Freshman,Ottawa County,B,yes
+62.5,10.25,64.25,,5,15,0,16.5,0.4,f,campus housing,Sophomore,Ottawa County,B,yes
+66,9,64,,8,14,24,27,0.47,f,apartment,Sophomore,Ottawa County,B,yes
+64,10,56.5,,5,30,35,0,0,f,apartment,Sophomore,Ottawa County,B,yes
+64.75,9.5,66,17.75,6,2,10,25,0,f,family home,Sophomore,Ottawa County,B,yes
+68,11.5,64,,6,20,5,30,0,m,family home,Sophomore,Ottawa County,B,yes
+76,13,72,,5,20,5,40,0.35,m,family home,Sophomore,Ottawa County,B,yes
+70,11,65.375,,7,23,0,22.5,0.1,f,campus housing,Junior,Ottawa County,B,yes
+70.5,11.5,68,,9,30,10,10,0,m,other,Junior,Ottawa County,B,yes
+61,8,59,,5,75,0.5,25,0,f,campus housing,Freshman,Michigan,B,yes
+61,9.25,63,15,7,13,0,0,1.85,f,campus housing,Freshman,Michigan,B,yes
+63,10,54.25,,7,35,180,0,0,f,campus housing,Freshman,Michigan,B,yes
+75,11,74,,5,10,0,0,0,m,campus housing,Freshman,Michigan,B,yes
+65,11.5,68,,10,20,0,0,0.89,f,campus housing,Freshman,Michigan,B,yes
+70,12,69,18,7,0,0,0,63,m,campus housing,Freshman,Michigan,B,yes
+68,12.25,67,,7,0,1,0,0,m,apartment,Freshman,Michigan,B,yes
+67,11.25,68,,7,90,25,40,0,m,family home,Freshman,Michigan,B,yes
+64,9,63.75,,5,4,0,28,0.63,f,campus housing,Sophomore,Michigan,B,yes
+64,9.25,65,,5,10,15,0,0,f,campus housing,Sophomore,Michigan,B,yes
+62.5,9.5,63,16,7.5,20,0,15,2.46,f,campus housing,Sophomore,Michigan,B,yes
+64.5,10,61,16.5,,15,0,16,2.37,f,campus housing,Sophomore,Michigan,B,yes
+62,10.5,64.25,17,7.4,6,0,20,0,f,campus housing,Sophomore,Michigan,B,yes
+69,10.5,61,,5,50,0,0,0.5,f,campus housing,Sophomore,Michigan,B,yes
+71,11,72,,6,10,0,0,0,m,campus housing,Sophomore,Michigan,B,yes
+67,12,63,,5,50,0,0,0.14,m,campus housing,Sophomore,Michigan,B,yes
+64,7.5,62.25,,7,80,0.5,12,2.5,f,apartment,Sophomore,Michigan,B,yes
+63,8.5,53,15,6,3,30,20,0.85,f,apartment,Sophomore,Michigan,B,yes
+62.5,9.5,60,,8,20,1,0,0,f,apartment,Sophomore,Michigan,B,yes
+63,9.5,63,16,6,25,2.5,0,0,f,apartment,Sophomore,Michigan,B,yes
+66,10,63,,7,30,1,0,0,f,apartment,Sophomore,Michigan,B,yes
+68,10,66.5,,8,5,2,0,0.25,f,apartment,Sophomore,Michigan,B,yes
+63,10.25,61.25,,10,40,3,25,0,f,apartment,Sophomore,Michigan,B,yes
+64,10.25,66,,9,10,0,9,0,f,apartment,Sophomore,Michigan,B,yes
+64,10.25,61,16,6,7,17,0,0.85,f,apartment,Sophomore,Michigan,B,yes
+62,10.5,61.5,,6,75,0.25,12,0,f,apartment,Sophomore,Michigan,B,yes
+65,10.5,64.5,17.5,7,20,1,22,0.6,f,apartment,Sophomore,Michigan,B,yes
+65.5,10.5,61,15.5,8,30,1,0,7,f,apartment,Sophomore,Michigan,B,yes
+71,10.5,67.5,19,7,20,0.5,15,0,m,apartment,Sophomore,Michigan,B,yes
+62.5,10.75,63.5,,5,50,4,0,0,f,apartment,Sophomore,Michigan,B,yes
+66.25,10.75,65.5,,5,45,0.25,0,2.08,f,apartment,Sophomore,Michigan,B,yes
+62.5,11,61.5,,6,20,0.5,16,0.25,f,apartment,Sophomore,Michigan,B,yes
+66.75,11,66.5,,7,15,1,0,0,m,apartment,Sophomore,Michigan,B,yes
+71,12,74,,6,60,200,0,0,m,apartment,Sophomore,Michigan,B,yes
+73,12,70,,1,0,2,0,0,m,apartment,Sophomore,Michigan,B,yes
+72,12.25,71,,8,20,1,0,0,m,apartment,Sophomore,Michigan,B,yes
+69.75,12.5,66,,8.5,50,8,0,0,m,apartment,Sophomore,Michigan,B,yes
+72,12.5,73,,8,0,3,20,0.75,m,apartment,Sophomore,Michigan,B,yes
+74.5,12.75,80,,10,100,0.1,0,0,m,apartment,Sophomore,Michigan,B,yes
+74.5,13,77.5,,7,14,2,0,0,m,apartment,Sophomore,Michigan,B,yes
+78,13.5,74,,7.9,40,1,0,0,m,apartment,Sophomore,Michigan,B,yes
+75.25,13.75,73.75,,7,0,140,15,0,m,apartment,Sophomore,Michigan,B,yes
+72,11,71,,9,200,50,15,0,m,family home,Sophomore,Michigan,B,yes
+72.5,13,72.5,,6,73,7,20,0.65,m,family home,Sophomore,Michigan,B,yes
+64.25,9,63,,8,20,2.3,37.5,0.73,f,other,Sophomore,Michigan,B,yes
+72,11,69,,7,25,2,60,0,m,other,Sophomore,Michigan,B,yes
+67,7,66,,6,25,0,16,0,f,campus housing,Junior,Michigan,B,yes
+61,8.5,66,,7,30,0,0,1.95,f,campus housing,Junior,Michigan,B,yes
+62.75,9.75,61.5,,8,150,0,16,0,f,campus housing,Junior,Michigan,B,yes
+68.5,10.5,66,,7,30,1,14.5,0.07,f,campus housing,Junior,Michigan,B,yes
+67,10.75,68.5,,6,55,1,22.5,0,f,campus housing,Junior,Michigan,B,yes
+72,11.5,63,,7,100,5,15,0,m,campus housing,Junior,Michigan,B,yes
+68,12,60,,4,300,0,0,3.15,m,campus housing,Junior,Michigan,B,yes
+68.75,8.5,66.25,,6,43,0.88,16,1.66,f,apartment,Junior,Michigan,B,yes
+64,9,61.5,,6,6,1,32.5,0,f,apartment,Junior,Michigan,B,yes
+67,9.5,67,,7,35,180,15,0.3,f,apartment,Junior,Michigan,B,yes
+66,10,64.5,,6,5,1,13.5,0,f,apartment,Junior,Michigan,B,yes
+62,10.5,64,,8,30,12,24,0,f,apartment,Junior,Michigan,B,yes
+65,10.5,72,18,5,17,3,40,0,f,apartment,Junior,Michigan,B,yes
+67.25,10.5,70,,8,5,0.2,14,0.96,f,apartment,Junior,Michigan,B,yes
+68,10.5,61,,9,100,10,27.5,2.14,f,apartment,Junior,Michigan,B,yes
+69,11,70,,6,10,20,40,0,f,apartment,Junior,Michigan,B,yes
+70,11,70,,6,20,8,17.5,0,m,apartment,Junior,Michigan,B,yes
+67,11.5,70.25,,7,100,23,0,0,m,apartment,Junior,Michigan,B,yes
+68.75,11.5,66.75,18.5,8,0,1,30,0,m,apartment,Junior,Michigan,B,yes
+73,12,76,,8,50,2.5,20,1.12,m,apartment,Junior,Michigan,B,yes
+68.75,12.75,69,,8,300,10,20,0,m,apartment,Junior,Michigan,B,yes
+74,11,63,,8,30,22.5,12,0,m,family home,Junior,Michigan,B,yes
+67.5,11.5,68.25,,8,50,15,15,0,f,other,Junior,Michigan,B,yes
+74,13.5,75,,8,100,0.03,0,1.32,m,campus housing,Senior,Michigan,B,yes
+66,9.75,66,,10,30,12,8,0.6,f,apartment,Senior,Michigan,B,yes
+69,10.5,55,,6,38,2,20,0,m,apartment,Senior,Michigan,B,yes
+71,10.5,68.5,,10,7,2,22,0,m,apartment,Senior,Michigan,B,yes
+74,10.5,71.5,,7,20,1,0,0,m,apartment,Senior,Michigan,B,yes
+63,11.5,63,,5,100,3,30,0.06,f,apartment,Senior,Michigan,B,yes
+68.5,11.5,67,,7,10,3,10,0.57,f,apartment,Senior,Michigan,B,yes
+70,12,71,,200,30,15,15,0,m,apartment,Senior,Michigan,B,yes
+59,,68,,5,600,10,20,0,m,other,Senior,Michigan,B,yes
+65,10,64,,7,60,5,0,0.39,f,other,Senior,Michigan,B,yes
+63,11,62,,10,100,1.3,15,0.8,f,other,Senior,Michigan,B,yes
+71,11.5,69,,7,100,35,27.5,0,m,other,Senior,Michigan,B,yes
+71.5,11.5,70.5,,7,30,45,12,0.87,m,family home,Freshman,U.S.,B,yes
+69.25,10,67.5,,6,44,3,0,0,m,other,Freshman,U.S.,B,yes
+69,9.75,70.25,,7,10,1.25,0,0,f,campus housing,Sophomore,U.S.,B,yes
+64,9.5,62.5,15,9,10,0.5,8,0,f,apartment,Sophomore,U.S.,B,yes
+64,10,64,,5,20,0.25,0,2.41,f,apartment,Sophomore,U.S.,B,yes
+73,11.75,73,19.5,7,20,1,0,0,m,apartment,Sophomore,U.S.,B,yes
+75,12,76.25,,5,25,1,0,0,m,apartment,Sophomore,U.S.,B,yes
+70,13,70.5,,5,150,1.5,0,0,m,apartment,Sophomore,U.S.,B,yes
+66,10.25,65,,7,20,1,0,0,f,,Sophomore,U.S.,B,yes
+68.5,10,61,,6.5,100,16,10,0.82,f,apartment,Junior,U.S.,B,yes
+69,12,67,16,7,50,20,30,10,m,apartment,Junior,U.S.,B,yes
+72,13,67.75,17.5,7,4,0.5,0,0,m,apartment,Junior,U.S.,B,yes
+63.75,10.75,66,,7,100,2,0,0,f,other,Junior,U.S.,B,yes
+62,9,53,,7,88,22,12,1.35,f,apartment,Senior,U.S.,B,yes
+68.75,10.5,68.5,,7,30,15,12,0.1,m,apartment,Senior,U.S.,B,yes
+68,11,65,,7,30,0.2,30,0,f,apartment,Senior,U.S.,B,yes
+67,11.5,67.5,,7,100,183,2,0,m,apartment,Senior,U.S.,B,yes
+66,7,57,,8,50,0.25,9,0,f,other,Senior,U.S.,B,yes
+64,9.5,63,,8,100,25,13,1.5,f,other,Senior,U.S.,B,yes
+64,9.75,62,,7,25,13.5,10,0,f,apartment,Other,U.S.,B,yes
+60,10,54,,6,34,300,0,27,f,campus housing,Sophomore,Not U.S.,B,yes
+64,10,60,,10,4,0,0,0.44,f,campus housing,Sophomore,Not U.S.,B,yes
+70,12,67,17,8,10,0,0,0,m,campus housing,Sophomore,Not U.S.,B,yes
+69,11.25,68,,7,15,1.25,0,2.25,f,apartment,Sophomore,Not U.S.,B,yes
+68,12,66.5,,7,0,1,13,0,m,apartment,Sophomore,Not U.S.,B,yes
+74,14.5,75,,6,13,1,0,0.93,m,apartment,Sophomore,Not U.S.,B,yes
+53.4,11.9,61.2,17.2,7,50,1.5,7.5,0,m,apartment,Junior,Not U.S.,B,yes
+70,11,66.25,,7.5,100,0.5,16,0,f,apartment,Senior,Kent County,C,yes
+63,10,61.5,,8,50,0,25,0,f,campus housing,Sophomore,Ottawa County,C,yes
+67,9,62,,7,70,10,30,0.2,f,apartment,Sophomore,Michigan,C,yes
+72,12.5,73,,8,12,0.75,14,0,m,apartment,Junior,Michigan,C,yes
+67.5,11,61,,6,0,35,20,0,m,apartment,Senior,Michigan,C,yes
+60,11.75,71,17,10,2,20,,1.15,m,apartment,Senior,Michigan,C,yes
+65,7.5,63,,8,30,20,20,3,f,family home,Sophomore,U.S.,C,yes
+61.5,9,52,15.75,,50,0,17.5,0,f,campus housing,Sophomore,Michigan,,yes
+68.5,12.5,68.5,,7,70,50,0,0.04,f,campus housing,Sophomore,Michigan,,yes
+75,13.5,74,,6,120,3.5,35,0,m,other,Junior,Michigan,,yes
+62,7.5,62,,5,30,120,15,0,f,,,,,yes
+65,8.5,65,,6.9,,25.7,20,0,m,,,,,yes
+72,11.5,75,,7,115,253,12,2.27,m,,,,,yes
+66.5,9.75,65.5,17.5,,10,0,10,0,f,campus housing,Sophomore,Kent County,A,no
+71.25,10.75,70.75,18.75,7.5,20,1,12,0,m,apartment,Sophomore,Kent County,A,no
+77.25,12.75,75.75,20.5,7.47,2,1,15,0,m,apartment,Sophomore,Kent County,A,no
+75.75,12,77,,7.5,112,10,20,1.04,m,family home,Sophomore,Kent County,A,no
+72,13.25,73,,6,100,30,0,0,m,family home,Sophomore,Kent County,A,no
+72.75,13.25,75,,8,10,1,0,0,m,other,Sophomore,Kent County,A,no
+63,10.5,65,,10,100,19,0,1.25,f,apartment,Junior,Kent County,A,no
+64.5,11.25,66.5,,6,60,15,25,7,f,family home,Junior,Kent County,A,no
+65.75,11.5,64.5,,5,150,0,0,0,m,campus housing,Sophomore,Ottawa County,A,no
+77.5,12.25,69.25,18.5,7.5,30,0.13,10,0,m,campus housing,Sophomore,Ottawa County,A,no
+,10.25,60,,7,22,1,12.5,0,m,family home,Sophomore,Ottawa County,A,no
+64.25,11,63,17,7,35,8,20,0,f,family home,Sophomore,Ottawa County,A,no
+72,13.25,73.5,,8,73,15,37.5,0,m,family home,Sophomore,Ottawa County,A,no
+75,14,74.5,,8,65,40,20,0,m,family home,Sophomore,Ottawa County,A,no
+71.75,12,69.75,18.25,5,2,4,0,0,m,family home,Senior,Ottawa County,A,no
+67,9.5,55.5,17.5,7,15,3,12,2,f,campus housing,Freshman,Michigan,A,no
+63.5,10.5,55.25,,8,30,120,0,0,f,campus housing,Freshman,Michigan,A,no
+59,10,59,,10,15,1,0,0,f,campus housing,Sophomore,Michigan,A,no
+60,10,60,16.5,8,7,0,5,0.15,f,campus housing,Sophomore,Michigan,A,no
+66,10,62,,10,35,0,0,0.25,f,campus housing,Sophomore,Michigan,A,no
+67.25,11.5,66.5,,5,20,250,12,0,f,campus housing,Sophomore,Michigan,A,no
+74.5,12,75.25,,7,15,0,0,0,m,campus housing,Sophomore,Michigan,A,no
+65,9.25,61.5,,7,20,1,0,7,f,apartment,Sophomore,Michigan,A,no
+63.625,9.375,63.125,,8,100,1,0,0.75,f,apartment,Sophomore,Michigan,A,no
+60,10,60.25,,5,10,30,35,0,f,apartment,Sophomore,Michigan,A,no
+64.25,10.25,59,16,5,5,100,6,0,f,apartment,Sophomore,Michigan,A,no
+70.5,10.5,66.25,,7,20,1,17.5,25,f,apartment,Sophomore,Michigan,A,no
+63,11,64,,7,20,1,0,0.75,f,apartment,Sophomore,Michigan,A,no
+67,11,62,,6,20,34,0,0,f,apartment,Sophomore,Michigan,A,no
+71,11,70.5,,10,3,0,0,0.33,m,apartment,Sophomore,Michigan,A,no
+73.25,11.25,74.25,,8,36,1,20,0,f,apartment,Sophomore,Michigan,A,no
+73,13.875,74,,6,8,2,0,1.5,m,apartment,Sophomore,Michigan,A,no
+66,9.75,62,16,,100,4,40,0,f,family home,Sophomore,Michigan,A,no
+67.5,12,69.5,,8,12,20,2,0.3,m,family home,Sophomore,Michigan,A,no
+65,10.5,56,,6,137,3,20,1.57,f,other,Sophomore,Michigan,A,no
+73,13,73,,7.5,28,8,0,0,m,other,Sophomore,Michigan,A,no
+68,10,68.75,,8,30,0,10,0,m,campus housing,Junior,Michigan,A,no
+70,10,73.5,,7,125,150,2,1.38,f,campus housing,Junior,Michigan,A,no
+67.25,11.25,64,18.25,6,30,1,0,2,f,campus housing,Junior,Michigan,A,no
+65.5,8.5,62.5,,8,40,7,12,0.3,f,apartment,Junior,Michigan,A,no
+62.5,9,64,,1,6,0.5,0,2,f,apartment,Junior,Michigan,A,no
+66,9.75,65.25,17.25,8,20,1,0,1.93,f,apartment,Junior,Michigan,A,no
+71,11.75,72.5,,6,300,12,24,0,m,apartment,Junior,Michigan,A,no
+61,12.25,62.5,,7,20,120,0,2,f,apartment,Junior,Michigan,A,no
+65,10.25,63,,8,30,0,10,0.6,f,campus housing,Senior,Michigan,A,no
+73,12.5,73,,8,25,0,0,0,m,campus housing,Senior,Michigan,A,no
+67,10,62.25,,6,,1,35,3,f,apartment,Senior,Michigan,A,no
+68,10,69,,8,150,10,30,0,m,apartment,Senior,Michigan,A,no
+67,10.5,60,17.5,9,200,5,0,0,f,apartment,Senior,Michigan,A,no
+68.5,12,60.5,,8,22,10,0,1.83,f,apartment,Senior,Michigan,A,no
+76.75,13.25,75,20,8,45,0.42,0,0.37,m,apartment,Senior,Michigan,A,no
+72,12.25,74,,8,50,17,5,0,m,family home,Senior,Michigan,A,no
+63,10.75,61.75,,5,100,0.25,20,0,f,apartment,Other,Michigan,A,no
+67.25,11,66,,7,5,435,56,2.86,f,campus housing,Sophomore,U.S.,A,no
+65,10,62,,7,15,0,0,0.3,f,apartment,Sophomore,U.S.,A,no
+65,11,64,17,10,0,100,0,0,m,apartment,Sophomore,U.S.,A,no
+71.25,11.25,75,,9,3,0,24,0,m,apartment,Sophomore,U.S.,A,no
+72.5,13,64,,7,125,1,0,0,m,apartment,Sophomore,U.S.,A,no
+66.75,11,65.5,18,5,2,1,10,0,m,other,Sophomore,U.S.,A,no
+63.5,7.5,65.5,,7,125,0.5,25,1.2,f,apartment,Junior,U.S.,A,no
+70,12.75,70,,7,1400,13,15,0,m,apartment,Junior,U.S.,A,no
+61.1,10.5,61,,7,0,20,0,0,f,family home,Junior,U.S.,A,no
+69,12.5,70.75,,8,20,0,0,0,m,apartment,Sophomore,Not U.S.,A,no
+68.75,12,69,18.5,7,30,30,17,0,m,family home,Junior,Not U.S.,A,no
+64,9.5,64,18,7,5,1,20,0,f,apartment,Sophomore,Kent County,B,no
+66,11,63,17,7,18,20,35,0.82,f,apartment,Sophomore,Kent County,B,no
+64.5,10,62,,8,20,10,14,0.73,f,campus housing,Junior,Kent County,B,no
+73,12.75,67,,6,15,2,24,0,m,apartment,Junior,Kent County,B,no
+73,12,72.5,17.5,7.54,4,20,33,0,m,family home,Junior,Kent County,B,no
+76,12.25,74,19,7,30,10,25,0,m,family home,Junior,Kent County,B,no
+63,8,60,,7,200,15,25,0.83,f,family home,Senior,Kent County,B,no
+72,11.5,71,,7,110,25,35,0,m,family home,Senior,Kent County,B,no
+72,12,69,,4,70,25,16,0,m,family home,Freshman,Ottawa County,B,no
+66,12,73.5,19.5,10,10,0.1,0,0,m,apartment,Sophomore,Ottawa County,B,no
+68,9.5,63,,8,50,7,25,0,f,family home,Sophomore,Ottawa County,B,no
+76.5,12,70.9,19.4,4,150,25,23,1,f,family home,Sophomore,Ottawa County,B,no
+65,9.5,61,,7,20,5,20,0,f,apartment,Junior,Ottawa County,B,no
+74.75,13.5,72,,6,31,13,12,0,m,family home,Junior,Ottawa County,B,no
+69.75,10,70,,8,24,10,5,0.11,m,other,Junior,Ottawa County,B,no
+70.375,10.75,68.875,,7,30,12,40,0,f,family home,Senior,Ottawa County,B,no
+71,12,71,18,8,100,4,20,0,m,family home,Other,Ottawa County,B,no
+64.25,9.25,63.5,,6,30,60,14,0,f,campus housing,Freshman,Michigan,B,no
+73.25,11.25,75,,6,4,0,0,0,m,campus housing,Freshman,Michigan,B,no
+64,,62.75,,8,60,2,0,0,f,apartment,Sophomore,Michigan,B,no
+64.25,9.25,63,15,7,15,20,22.5,3,f,apartment,Sophomore,Michigan,B,no
+63,10.25,63.5,,7,12,1,0,0.04,f,apartment,Sophomore,Michigan,B,no
+62.5,10.5,60,,5,10,150,0,0,f,apartment,Sophomore,Michigan,B,no
+71,10.5,67.25,17.5,10,5,1,0,0,f,apartment,Sophomore,Michigan,B,no
+64,11.5,64.5,,7,107,1,0,1.27,f,apartment,Sophomore,Michigan,B,no
+71,12,68,,5,,1,0,0,m,apartment,Sophomore,Michigan,B,no
+64,8.5,60,,8,150,26,25,0,f,family home,Sophomore,Michigan,B,no
+63,9.5,62.5,,7,100,2.5,20,0.87,f,apartment,Junior,Michigan,B,no
+66.25,9.75,64,16.5,6,25,1,20,0.62,f,apartment,Junior,Michigan,B,no
+68.5,12,71.5,,5,100,3,30,0.91,m,apartment,Junior,Michigan,B,no
+67,10,65,15,6,15,9,25,62,f,other,Junior,Michigan,B,no
+75.25,13.5,75.25,20.5,5,70,7,50,0,m,family home,Senior,Michigan,B,no
+60,9.5,58,15,8,12,0,0,4,f,campus housing,Sophomore,U.S.,B,no
+72,11,72,,6,87,0,14,0,f,campus housing,Sophomore,U.S.,B,no
+72,9.75,71,,6,40,12.5,40,2.09,m,family home,Senior,Kent County,C,no
+73,13,71,,7,175,30,20,0,m,family home,Senior,Ottawa County,C,no
+68.125,10.625,62.375,,,35,10,27.5,0,f,apartment,Junior,Michigan,C,no
+66,10.5,65.75,15,5,2,15,35,0.05,f,family home,Senior,Michigan,C,no
+62,7,65,,4,30,0.5,0,0,f,apartment,Senior,U.S.,C,no
+65,8,58,,6,200,20,25,1.07,f,family home,Junior,Not U.S.,C,no
+63,9.75,64.5,,8,30,0,13,0,f,campus housing,Sophomore,Michigan,,no
+66,7.5,62,,7,20,0.1,27.5,0.18,f,apartment,Junior,Michigan,,no
+70,10,66,,8,0,1.25,0,0.72,f,apartment,Sophomore,Kent County,A,
+76,13,71,,7,5,50,0,0,m,campus housing,Freshman,Michigan,A,
+64,10,58,,8,20,195,0,0,f,apartment,Sophomore,Michigan,A,
+74,12,76,,8,200,1,0,0.5,m,apartment,Sophomore,Michigan,A,
+64,11.25,64,,8,125,30,0,0.52,f,other,Sophomore,Michigan,A,
+67,11.75,64.5,,7,11,1,0,0.2,m,apartment,Junior,Michigan,A,
+71.25,12.5,69.5,,7,15,0.2,0,0.07,m,campus housing,Junior,U.S.,A,
+63,9.25,63.5,,5,50,2,12,0,f,apartment,Junior,U.S.,A,
+67,10.25,65,,7,25,1,0,0,f,campus housing,Sophomore,Michigan,B,
+70,10.5,65.5,18,7,3,0,8,0,f,campus housing,Sophomore,Michigan,B,
+62.25,9.125,61.25,,9.5,20,27,24,0.39,f,apartment,Senior,U.S.,B,
+65,12,71.5,,,75,3,26,0,m,apartment,Junior,Not U.S.,B,
+66,10.5,70,,8,,4,,,,,,,,
+67.25,10.5,64,,8,290,1,27.5,2.41,f,,,,,
+69,12,67.5,18,7,10,230,0,,,,,,,
+70,12,68.5,,7,50,0,12,0.25,m,,,,,
+75.5,12.5,73,19.75,7,0,2,0,,,,,,,
+74,12.75,70,,5,0,35,0,48,m,,,,,
