@@ -132,9 +132,9 @@ MIfars$ROUTE <- factor(MIfars$ROUTE, c("Local Street", "County Road",
 tab1(MIfars$ROUTE, bar.values="percent", horiz=TRUE, missing = FALSE)
 ```
 
-a.
+a.  
 
-b.
+b.  
 
 ### Speeding Related and Sex of Driver
 
